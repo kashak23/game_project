@@ -1,0 +1,1614 @@
+﻿Log file open, 03/02/18 22:29:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CRT
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-582032339) SRandInit(-582032339).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.181755
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/Program Files/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.02-19.29.25:692][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.02-19.29.25:692][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.02-19.29.25:727][  0]LogInit: Computer: JACK
+[2018.03.02-19.29.25:728][  0]LogInit: User: kasha
+[2018.03.02-19.29.25:728][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.02-19.29.25:728][  0]LogInit: High frequency timer resolution =3.323586 MHz
+[2018.03.02-19.29.25:728][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.03.02-19.29.25:728][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.02-19.29.25:728][  0]LogMemory: Process Physical Memory: 273.95 MB used, 273.95 MB peak
+[2018.03.02-19.29.25:728][  0]LogMemory: Process Virtual Memory: 269.62 MB used, 269.62 MB peak
+[2018.03.02-19.29.25:728][  0]LogMemory: Physical Memory: 4876.09 MB used,  11468.95 MB free, 16345.04 MB total
+[2018.03.02-19.29.25:728][  0]LogMemory: Virtual Memory: 677.11 MB used,  11468.95 MB free, 134217728.00 MB total
+[2018.03.02-19.29.26:176][  0]LogInit: Using OS detected language (ru-RU).
+[2018.03.02-19.29.26:176][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.03.02-19.29.26:240][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.03.02-19.29.26:241][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.03.02-19.29.26:812][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.02-19.29.29:424][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.02-19.29.29:464][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950' (Feature Level 11_0)
+[2018.03.02-19.29.29:464][  0]LogD3D11RHI:       2007/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.03.02-19.29.29:469][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.02-19.29.29:469][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.02-19.29.29:469][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.02-19.29.29:474][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.02-19.29.29:474][  0]LogD3D11RHI:     GPU DeviceId: 0x1402 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.02-19.29.29:474][  0]LogWindows: EnumDisplayDevices:
+[2018.03.02-19.29.29:474][  0]LogWindows:    0. 'NVIDIA GeForce GTX 950' (P:0 D:1)
+[2018.03.02-19.29.29:474][  0]LogWindows:    1. 'NVIDIA GeForce GTX 950' (P:1 D:1)
+[2018.03.02-19.29.29:475][  0]LogWindows:    2. 'NVIDIA GeForce GTX 950' (P:0 D:1)
+[2018.03.02-19.29.29:475][  0]LogWindows:    3. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2018.03.02-19.29.29:475][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.02-19.29.29:475][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950
+[2018.03.02-19.29.29:475][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.02-19.29.29:475][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.02-19.29.29:475][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2018.03.02-19.29.29:503][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.02-19.29.29:525][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.03.02-19.29.29:574][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (../../../../../Unreal Projects/CRT/Intermediate/Shaders/WorkingDirectory/6920/).
+[2018.03.02-19.29.29:574][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/kasha/AppData/Local/Temp/UnrealShaderWorkingDir/761FE2A84F1943434536009AF9F0D978/'.
+[2018.03.02-19.29.29:575][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.02-19.29.32:309][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.02-19.29.32:360][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.02-19.29.32:411][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.02-19.29.32:471][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.02-19.29.32:530][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.02-19.29.32:581][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.02-19.29.32:634][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.02-19.29.32:689][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.02-19.29.32:734][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.02-19.29.32:788][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.02-19.29.32:838][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.02-19.29.32:890][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.02-19.29.32:942][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.02-19.29.33:022][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.02-19.29.33:135][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.02-19.29.33:136][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.02-19.29.33:193][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.02-19.29.33:231][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.02-19.29.33:351][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.02-19.29.33:381][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.02-19.29.33:432][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.02-19.29.33:484][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.02-19.29.33:548][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.02-19.29.33:603][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.02-19.29.33:603][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.02-19.29.34:388][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.02-19.29.35:565][  0]LogDerivedDataCache: Loaded boot cache 1.18s 78MB d:/Users/kasha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.02-19.29.35:565][  0]LogDerivedDataCache: Display: Loaded Boot cache: d:/Users/kasha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.02-19.29.35:565][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/CRT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.02-19.29.35:565][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.02-19.29.35:565][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/CRT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.02-19.29.35:565][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.02-19.29.35:625][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.02-19.29.35:637][  0]LogDerivedDataCache: Using Local data cache path d:/Users/kasha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.02-19.29.35:650][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.02-19.29.35:650][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.02-19.29.35:668][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.02-19.29.35:668][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.02-19.29.38:966][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.02-19.29.39:523][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.02-19.29.39:566][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.02-19.29.39:566][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.02-19.29.39:566][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.02-19.29.39:566][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.02-19.29.39:566][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.02-19.29.39:623][  0]LogNetVersion: CRT , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1128442504)
+[2018.03.02-19.29.40:044][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2018.03.02-19.29.41:477][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.034740 seconds
+[2018.03.02-19.29.41:483][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.02-19.29.41:483][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.02-19.29.41:483][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.02-19.29.41:530][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.02-19.29.47:589][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.02-19.29.47:632][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.02-19.29.48:561][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.02-19.29.49:106][  0]SourceControl: Source control is disabled
+[2018.03.02-19.29.49:106][  0]SourceControl: Source control is disabled
+[2018.03.02-19.29.49:159][  0]SourceControl: Source control is disabled
+[2018.03.02-19.29.49:220][  0]SourceControl: Source control is disabled
+[2018.03.02-19.29.50:076][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.02-19.29.50:341][  0]LogOcInput: OculusInput pre-init called
+[2018.03.02-19.29.50:666][  0]LogEngine: Initializing Engine...
+[2018.03.02-19.29.50:668][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.02-19.29.51:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.02-19.29.51:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.02-19.29.51:320][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.02-19.29.51:334][  0]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.29.51:351][  0]LogInit: FAudioDevice initialized.
+[2018.03.02-19.29.51:620][  0]LogDerivedDataCache: Saved boot cache 0.27s 78MB d:/Users/kasha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.02-19.29.51:636][  0]LogInit: Texture streaming: Enabled
+[2018.03.02-19.29.51:728][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.02-19.29.51:852][  0]LogInit: Transaction tracking system initialized
+[2018.03.02-19.29.52:166][  0]BlueprintLog: New page: Editor Load
+[2018.03.02-19.29.53:081][  0]LocalizationService: Localization service is disabled
+[2018.03.02-19.29.54:155][  0]LogConsoleResponse: Display: 
+[2018.03.02-19.29.54:922][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.02-19.29.54:922][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.02-19.29.54:922][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.02-19.29.55:427][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/CRT/Content/' took 0.02s
+[2018.03.02-19.29.56:215][  0]SourceControl: Source control is disabled
+[2018.03.02-19.29.56:215][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CRT/Content/Maps/MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.02-19.29.56:230][  0]LightingResults: New page: Lighting Build
+[2018.03.02-19.29.56:284][  0]MapCheck: New page: Map Check
+[2018.03.02-19.29.56:284][  0]LightingResults: New page: Lighting Build
+[2018.03.02-19.29.56:303][  0]LogAIModule: Creating AISystem for world MenuMap
+[2018.03.02-19.29.56:304][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.02-19.29.56:316][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.02-19.29.56:357][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40.998ms to complete.
+[2018.03.02-19.29.56:357][  0]LogFileHelpers: Loading map 'MenuMap' took 0.142
+[2018.03.02-19.29.56:584][  0]LogCollectionManager: Loaded 0 collections in 0.001246 seconds
+[2018.03.02-19.29.56:669][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/CRT/Saved/Collections/' took 0.01s
+[2018.03.02-19.29.56:669][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/CRT/Content/Developers/kasha/Collections/' took 0.01s
+[2018.03.02-19.29.56:669][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/CRT/Content/Collections/' took 0.01s
+[2018.03.02-19.29.56:669][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.02-19.29.56:679][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2363 classes and 519 folders.
+[2018.03.02-19.29.56:741][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.02-19.29.57:262][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.02-19.29.57:337][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.02-19.29.57:441][  0]LogSlate: Took 0.005744 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.02-19.29.57:448][  0]LogSlate: Took 0.004741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.02-19.29.57:458][  0]LogSlate: Took 0.005170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.02-19.29.57:651][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2018.03.02-19.29.58:044][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.02-19.29.58:044][  0]LogLoad: (Engine Initialization) Total time: 39.08 seconds
+[2018.03.02-19.29.58:044][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.02-19.29.58:044][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.02-19.29.58:403][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.02-19.29.58:474][  0]LogSlate: Took 0.005914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.02-19.29.58:725][  1]LogAssetRegistry: Asset discovery search completed in 18.7022 seconds
+[2018.03.02-19.29.58:727][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.02-19.29.58:727][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2018.03.02-19.29.59:387][  3]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.02-19.30.27:830][427]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.02-19.30.30:676][523]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.02-19.30.50:308][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuMap" FILE="../../../../../Unreal Projects/CRT/Content/Maps/MenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.02-19.30.50:370][978]LogSavePackage: Save=9.19ms
+[2018.03.02-19.30.50:370][978]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/MenuMapC9F325D04CAD893D588224B26F32923F.tmp' to '../../../../../Unreal Projects/CRT/Content/Maps/MenuMap.umap'
+[2018.03.02-19.30.50:374][978]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Maps/MenuMap.umap
+[2018.03.02-19.30.50:401][978]LogFileHelpers: Saving map 'MenuMap' took 0.138
+[2018.03.02-19.30.52:046][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:046][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Anim/Animations/RunnerAnimBP.uasset.
+[2018.03.02-19.30.52:046][ 89]LoadErrors: Error: /Game/Anim/Animations/RunnerAnimBP : Can't find file for asset. /Game/Blueprints/Character/MyChar
+[2018.03.02-19.30.52:047][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:047][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Anim/Animations/RunnerAnimBP.uasset.
+[2018.03.02-19.30.52:050][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:050][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Anim/Animations/RunnerAnimBP.uasset.
+[2018.03.02-19.30.52:052][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:052][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:052][ 89]LoadErrors: Error: /Game/Blueprints/MyChar : Can't find file for asset. /Game/Blueprints/Character/MyChar
+[2018.03.02-19.30.52:052][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:052][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:053][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:053][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:053][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:053][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:054][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:054][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_DynamicCast_0
+[2018.03.02-19.30.52:055][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:055][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:055][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:055][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:055][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_0
+[2018.03.02-19.30.52:055][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:055][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:056][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:062][ 89]LogBlueprint: Warning: [Compiler RunnerAnimBP] Get : 'InParkour' variable not found. Base class was probably changed. /Game/Anim/Animations/RunnerAnimBP.RunnerAnimBP
+[2018.03.02-19.30.52:066][ 89]LogBlueprint: Warning: [Compiler RunnerAnimBP] Could not find a variable named "InParkour" in 'RunnerAnimBP'.
+Make sure 'RunnerAnimBP' has been compiled for  Get InParkour
+[2018.03.02-19.30.52:066][ 89]LogBlueprint: Error: [Compiler RunnerAnimBP] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:066][ 89]LogBlueprint: Error: [Compiler RunnerAnimBP] In use pin  As My Char  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:066][ 89]LogBlueprint: Error: [Compiler RunnerAnimBP] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:071][ 89]LogBlueprint: Warning: [Compiler RunnerAnimBP] Could not find a variable named "InParkour" in 'RunnerAnimBP'.
+Make sure 'RunnerAnimBP' has been compiled for  Get InParkour
+[2018.03.02-19.30.52:071][ 89]LogBlueprint: Error: [Compiler RunnerAnimBP] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:071][ 89]LogBlueprint: Error: [Compiler RunnerAnimBP] In use pin  As My Char  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:071][ 89]LogBlueprint: Error: [Compiler RunnerAnimBP] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:072][ 89]LogBlueprint: Error: [Compiler RunnerAnimBP] The property associated with  In Parkour  could not be found
+[2018.03.02-19.30.52:073][ 89]LogBlueprint: Warning: [Compiler RunnerAnimBP] [0093.11] Compile of RunnerAnimBP failed. 7 Fatal Issue(s) 3 Warning(s) [in 13 ms] (/Game/Anim/Animations/RunnerAnimBP.RunnerAnimBP)
+[2018.03.02-19.30.52:078][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Materials/RunMat/Default_mat3'
+[2018.03.02-19.30.52:078][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/RunMat/Default_mat3' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:078][ 89]LoadErrors: Error: /Game/Blueprints/MyChar : Can't find file for asset. /Game/Assets/Materials/RunMat/Default_mat3
+[2018.03.02-19.30.52:078][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Materials/RunMat/Default_mat5'
+[2018.03.02-19.30.52:078][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/RunMat/Default_mat5' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:078][ 89]LoadErrors: Error: /Game/Blueprints/MyChar : Can't find file for asset. /Game/Assets/Materials/RunMat/Default_mat5
+[2018.03.02-19.30.52:079][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Audio/Explosion_Cue'
+[2018.03.02-19.30.52:079][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/Explosion_Cue' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:079][ 89]LoadErrors: Error: /Game/Blueprints/MyChar : Can't find file for asset. /Game/Assets/Audio/Explosion_Cue
+[2018.03.02-19.30.52:189][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Materials/RunMat/Default_mat3'
+[2018.03.02-19.30.52:189][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/RunMat/Default_mat3' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:189][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Materials/RunMat/Default_mat5'
+[2018.03.02-19.30.52:190][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/RunMat/Default_mat5' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:190][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Meshes/headset'
+[2018.03.02-19.30.52:190][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Meshes/headset' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:190][ 89]LoadErrors: Error: /Game/Blueprints/MyChar : Can't find file for asset. /Game/Assets/Meshes/headset
+[2018.03.02-19.30.52:203][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:203][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset.
+[2018.03.02-19.30.52:203][ 89]LoadErrors: Error: /Game/UMG/GameOver : Can't find file for asset. /Game/Blueprints/Character/MyChar
+[2018.03.02-19.30.52:233][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:233][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset.
+[2018.03.02-19.30.52:234][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:234][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset.
+[2018.03.02-19.30.52:234][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:234][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset.
+[2018.03.02-19.30.52:236][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:236][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:236][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:236][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:236][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:236][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:237][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:237][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:237][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:237][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:237][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:237][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by GameOver
+[2018.03.02-19.30.52:238][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:241][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:241][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_DynamicCast_18
+[2018.03.02-19.30.52:241][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:241][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:241][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:242][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:242][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableSet_118
+[2018.03.02-19.30.52:242][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:242][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:242][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:243][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:243][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_1
+[2018.03.02-19.30.52:243][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:243][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:243][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:243][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:243][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_152
+[2018.03.02-19.30.52:243][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:244][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:244][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_157
+[2018.03.02-19.30.52:244][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:244][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:244][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_4
+[2018.03.02-19.30.52:244][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:245][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:245][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:247][ 89]LogBlueprint: Warning: [Compiler GameOver] Get : 'TotalCoins' variable not found. Base class was probably changed. /Game/UMG/GameOver.GameOver
+[2018.03.02-19.30.52:247][ 89]LogBlueprint: Warning: [Compiler GameOver] Get : 'Distance' variable not found. Base class was probably changed. /Game/UMG/GameOver.GameOver
+[2018.03.02-19.30.52:249][ 89]LogBlueprint: Error: [Compiler GameOver] In use pin  My Char Ref  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:250][ 89]LogBlueprint: Error: [Compiler GameOver] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:250][ 89]LogBlueprint: Error: [Compiler GameOver] In use pin  As My Char  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:250][ 89]LogBlueprint: Error: [Compiler GameOver] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:250][ 89]LogBlueprint: Error: [Compiler GameOver] In use pin  <Unnamed>  no longer exists on node  Main Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:250][ 89]LogBlueprint: Error: [Compiler GameOver] In use pin  Target  no longer exists on node  Main Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:250][ 89]LogBlueprint: Error: [Compiler GameOver] Could not find a function named "MainMenu" in 'RunnerGameInstance_C'.
+Make sure 'RunnerGameInstance_C' has been compiled for  Main Menu
+[2018.03.02-19.30.52:250][ 89]LogBlueprint: Warning: [Compiler GameOver] Could not find a variable named "TotalCoins" in 'GameOver'.
+Make sure 'GameOver' has been compiled for  Get TotalCoins
+[2018.03.02-19.30.52:251][ 89]LogBlueprint: Error: [Compiler GameOver] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:251][ 89]LogBlueprint: Error: [Compiler GameOver] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:251][ 89]LogBlueprint: Warning: [Compiler GameOver] Could not find a variable named "Distance" in 'GameOver'.
+Make sure 'GameOver' has been compiled for  Get Distance
+[2018.03.02-19.30.52:253][ 89]LogBlueprint: Warning: [Compiler GameOver] [0093.29] Compile of GameOver failed. 9 Fatal Issue(s) 4 Warning(s) [in 7 ms] (/Game/UMG/GameOver.GameOver)
+[2018.03.02-19.30.52:270][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:270][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset.
+[2018.03.02-19.30.52:270][ 89]LoadErrors: Error: /Game/UMG/MainMenu : Can't find file for asset. /Game/Blueprints/Character/MyChar
+[2018.03.02-19.30.52:270][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:270][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset.
+[2018.03.02-19.30.52:271][ 89]LoadErrors: Error: /Game/UMG/MainMenu : Can't find file for asset. /Game/Blueprints/SaveGame2
+[2018.03.02-19.30.52:272][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:272][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset.
+[2018.03.02-19.30.52:273][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:273][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset.
+[2018.03.02-19.30.52:274][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:274][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset.
+[2018.03.02-19.30.52:274][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:274][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset.
+[2018.03.02-19.30.52:274][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:274][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset.
+[2018.03.02-19.30.52:275][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:275][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset.
+[2018.03.02-19.30.52:297][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:297][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:297][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:298][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:298][ 89]LoadErrors: Error: /Game/Blueprints/MyChar : Can't find file for asset. /Game/Blueprints/SaveGame2
+[2018.03.02-19.30.52:298][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:298][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:298][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:298][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:298][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:298][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:298][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:298][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:299][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:299][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:299][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:299][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:299][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:299][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:299][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:299][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:300][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:300][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by MainMenu
+[2018.03.02-19.30.52:300][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:311][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:311][ 89]LoadErrors: Failed to load /Game/Blueprints/SaveGame2.SaveGame2_C Referenced by K2Node_CallFunction_100
+[2018.03.02-19.30.52:311][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:311][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:311][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:312][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:312][ 89]LoadErrors: Failed to load /Game/Blueprints/SaveGame2.SaveGame2_C Referenced by K2Node_VariableSet_78
+[2018.03.02-19.30.52:312][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:312][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:312][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:312][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:312][ 89]LoadErrors: Failed to load /Game/Blueprints/SaveGame2.SaveGame2_C Referenced by K2Node_Knot_5
+[2018.03.02-19.30.52:312][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:313][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:313][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:313][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:313][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_150
+[2018.03.02-19.30.52:313][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:313][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:314][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:314][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:314][ 89]LoadErrors: Failed to load /Game/Blueprints/SaveGame2.SaveGame2_C Referenced by K2Node_Knot_6
+[2018.03.02-19.30.52:314][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:314][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:314][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:315][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:315][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_DynamicCast_2
+[2018.03.02-19.30.52:315][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:315][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:315][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:316][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:316][ 89]LoadErrors: Failed to load /Game/Blueprints/SaveGame2.SaveGame2_C Referenced by K2Node_DynamicCast_28
+[2018.03.02-19.30.52:316][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:316][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:316][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:317][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:317][ 89]LoadErrors: Failed to load /Game/Blueprints/SaveGame2.SaveGame2_C Referenced by K2Node_VariableGet_67
+[2018.03.02-19.30.52:317][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:317][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:317][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:318][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:318][ 89]LoadErrors: Failed to load /Game/Blueprints/SaveGame2.SaveGame2_C Referenced by K2Node_DynamicCast_13
+[2018.03.02-19.30.52:318][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:318][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:318][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:318][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:319][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableSet_193
+[2018.03.02-19.30.52:319][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:319][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:319][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:319][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:319][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_3
+[2018.03.02-19.30.52:319][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:320][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:320][ 89]LoadErrors: Failed to load /Game/Blueprints/SaveGame2.SaveGame2_C Referenced by K2Node_VariableSet_52
+[2018.03.02-19.30.52:320][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:320][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:320][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:321][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:321][ 89]LoadErrors: Failed to load /Game/Blueprints/SaveGame2.SaveGame2_C Referenced by K2Node_Knot_3
+[2018.03.02-19.30.52:321][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:321][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:321][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:321][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:322][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_151
+[2018.03.02-19.30.52:322][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:322][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:322][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:322][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:322][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:323][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:323][ 89]LoadErrors: Failed to load /Game/Blueprints/SaveGame2.SaveGame2_C Referenced by K2Node_VariableGet_94
+[2018.03.02-19.30.52:323][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:323][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/SaveGame2'
+[2018.03.02-19.30.52:323][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/SaveGame2' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:329][ 89]LogBlueprint: Warning: [Compiler MainMenu] Get : 'TotalCoins' variable not found. Base class was probably changed. /Game/UMG/MainMenu.MainMenu
+[2018.03.02-19.30.52:329][ 89]LogBlueprint: Warning: [Compiler MainMenu] Set : 'PlayerCoins' variable not found. Base class was probably changed. /Game/UMG/MainMenu.MainMenu
+[2018.03.02-19.30.52:329][ 89]LogBlueprint: Warning: [Compiler MainMenu] Set PlayerCoins : 'PlayerCoins' variable not found. Base class was probably changed. /Game/UMG/MainMenu.MainMenu
+[2018.03.02-19.30.52:329][ 89]LogBlueprint: Warning: [Compiler MainMenu] Get : 'PlayerCoins' variable not found. Base class was probably changed. /Game/UMG/MainMenu.MainMenu
+[2018.03.02-19.30.52:330][ 89]LogBlueprint: Warning: [Compiler MainMenu] Set : 'PlayerDistance' variable not found. Base class was probably changed. /Game/UMG/MainMenu.MainMenu
+[2018.03.02-19.30.52:330][ 89]LogBlueprint: Warning: [Compiler MainMenu] Set PlayerDistance : 'PlayerDistance' variable not found. Base class was probably changed. /Game/UMG/MainMenu.MainMenu
+[2018.03.02-19.30.52:330][ 89]LogBlueprint: Warning: [Compiler MainMenu] Get : 'Distance' variable not found. Base class was probably changed. /Game/UMG/MainMenu.MainMenu
+[2018.03.02-19.30.52:330][ 89]LogBlueprint: Warning: [Compiler MainMenu] Get : 'PlayerDistance' variable not found. Base class was probably changed. /Game/UMG/MainMenu.MainMenu
+[2018.03.02-19.30.52:334][ 89]LogBlueprint: Error: [Compiler MainMenu] COMPILER ERROR: failed building connection with 'This cast has an invalid target type (was the class deleted without a redirect?).' at  Set SaveGameRef
+[2018.03.02-19.30.52:335][ 89]LogBlueprint: Warning: [Compiler MainMenu] Could not find a variable named "PlayerDistance" in 'MainMenu'.
+Make sure 'MainMenu' has been compiled for  Get PlayerDistance
+[2018.03.02-19.30.52:335][ 89]LogBlueprint: Warning: [Compiler MainMenu] Could not find a variable named "Distance" in 'MainMenu'.
+Make sure 'MainMenu' has been compiled for  Get Distance
+[2018.03.02-19.30.52:335][ 89]LogBlueprint: Error: [Compiler MainMenu] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:335][ 89]LogBlueprint: Warning: [Compiler MainMenu] Could not find a variable named "PlayerDistance" in 'MainMenu'.
+Make sure 'MainMenu' has been compiled for  Set PlayerDistance
+[2018.03.02-19.30.52:335][ 89]LogBlueprint: Error: [Compiler MainMenu] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:335][ 89]LogBlueprint: Error: [Compiler MainMenu] In use pin  My Char Ref  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:335][ 89]LogBlueprint: Error: [Compiler MainMenu] In use pin  As Save Game 2  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:336][ 89]LogBlueprint: Warning: [Compiler MainMenu] Could not find a variable named "PlayerCoins" in 'MainMenu'.
+Make sure 'MainMenu' has been compiled for  Get PlayerCoins
+[2018.03.02-19.30.52:336][ 89]LogBlueprint: Error: [Compiler MainMenu] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:336][ 89]LogBlueprint: Error: [Compiler MainMenu] In use pin  As Save Game 2  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:336][ 89]LogBlueprint: Error: [Compiler MainMenu] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:336][ 89]LogBlueprint: Error: [Compiler MainMenu] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:336][ 89]LogBlueprint: Error: [Compiler MainMenu] In use pin  As My Char  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:336][ 89]LogBlueprint: Error: [Compiler MainMenu] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:336][ 89]LogBlueprint: Warning: [Compiler MainMenu] Could not find a variable named "TotalCoins" in 'MainMenu'.
+Make sure 'MainMenu' has been compiled for  Get TotalCoins
+[2018.03.02-19.30.52:336][ 89]LogBlueprint: Warning: [Compiler MainMenu] Could not find a variable named "PlayerCoins" in 'MainMenu'.
+Make sure 'MainMenu' has been compiled for  Set PlayerCoins
+[2018.03.02-19.30.52:337][ 89]LogBlueprint: Error: [Compiler MainMenu] In use pin  <Unnamed>  no longer exists on node  Score Board . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:337][ 89]LogBlueprint: Error: [Compiler MainMenu] In use pin  Target  no longer exists on node  Score Board . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:337][ 89]LogBlueprint: Error: [Compiler MainMenu] Could not find a function named "ScoreBoard" in 'RunnerGameInstance_C'.
+Make sure 'RunnerGameInstance_C' has been compiled for  Score Board
+[2018.03.02-19.30.52:337][ 89]LogBlueprint: Error: [Compiler MainMenu] In use pin  <Unnamed>  no longer exists on node  Settings Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:337][ 89]LogBlueprint: Error: [Compiler MainMenu] In use pin  Target  no longer exists on node  Settings Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:337][ 89]LogBlueprint: Error: [Compiler MainMenu] Could not find a function named "SettingsMenu" in 'RunnerGameInstance_C'.
+Make sure 'RunnerGameInstance_C' has been compiled for  Settings Menu
+[2018.03.02-19.30.52:339][ 89]LogBlueprint: Error: [Compiler MainMenu] The property associated with  Player Distance  could not be found
+[2018.03.02-19.30.52:339][ 89]LogBlueprint: Error: [Compiler MainMenu] The property associated with  Total Coins  could not be found
+[2018.03.02-19.30.52:339][ 89]LogBlueprint: Error: [Compiler MainMenu] The property associated with  Player Coins  could not be found
+[2018.03.02-19.30.52:339][ 89]LogBlueprint: Error: [Compiler MainMenu] The property associated with  Player Coins  could not be found
+[2018.03.02-19.30.52:340][ 89]LogBlueprint: Error: [Compiler MainMenu] The property associated with  Distance  could not be found
+[2018.03.02-19.30.52:340][ 89]LogBlueprint: Error: [Compiler MainMenu] The property associated with  Player Distance  could not be found
+[2018.03.02-19.30.52:343][ 89]LogBlueprint: Warning: [Compiler MainMenu] [0093.38] Compile of MainMenu failed. 23 Fatal Issue(s) 14 Warning(s) [in 17 ms] (/Game/UMG/MainMenu.MainMenu)
+[2018.03.02-19.30.52:363][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:363][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:363][ 89]LoadErrors: Error: /Game/UMG/PauseGame : Can't find file for asset. /Game/Blueprints/Character/MyChar
+[2018.03.02-19.30.52:364][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:364][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:365][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:365][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:365][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:366][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:373][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:373][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/RunnerHUD.uasset.
+[2018.03.02-19.30.52:373][ 89]LoadErrors: Error: /Game/UMG/RunnerHUD : Can't find file for asset. /Game/Blueprints/Character/MyChar
+[2018.03.02-19.30.52:374][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:374][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/RunnerHUD.uasset.
+[2018.03.02-19.30.52:374][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:374][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/RunnerHUD.uasset.
+[2018.03.02-19.30.52:375][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:375][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/RunnerHUD.uasset.
+[2018.03.02-19.30.52:376][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:376][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:376][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:376][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:377][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:377][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:377][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:377][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:377][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:377][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:378][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:378][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by RunnerHUD
+[2018.03.02-19.30.52:378][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:380][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:381][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_DynamicCast_1
+[2018.03.02-19.30.52:381][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:381][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:381][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:381][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:382][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableSet_40
+[2018.03.02-19.30.52:382][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:382][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:382][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:383][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:383][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:383][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:383][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:383][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:383][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_71
+[2018.03.02-19.30.52:384][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:384][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:384][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_75
+[2018.03.02-19.30.52:384][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:385][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:385][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:385][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:385][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset.
+[2018.03.02-19.30.52:387][ 89]LogBlueprint: Warning: [Compiler RunnerHUD] Get : 'TotalCoins' variable not found. Base class was probably changed. /Game/UMG/RunnerHUD.RunnerHUD
+[2018.03.02-19.30.52:387][ 89]LogBlueprint: Warning: [Compiler RunnerHUD] Get : 'Distance' variable not found. Base class was probably changed. /Game/UMG/RunnerHUD.RunnerHUD
+[2018.03.02-19.30.52:389][ 89]LogBlueprint: Error: [Compiler RunnerHUD] In use pin  My Char Ref  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:389][ 89]LogBlueprint: Error: [Compiler RunnerHUD] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:389][ 89]LogBlueprint: Error: [Compiler RunnerHUD] In use pin  As My Char  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:389][ 89]LogBlueprint: Error: [Compiler RunnerHUD] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:390][ 89]LogBlueprint: Warning: [Compiler RunnerHUD] Could not find a variable named "TotalCoins" in 'RunnerHUD'.
+Make sure 'RunnerHUD' has been compiled for  Get TotalCoins
+[2018.03.02-19.30.52:390][ 89]LogBlueprint: Error: [Compiler RunnerHUD] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:390][ 89]LogBlueprint: Error: [Compiler RunnerHUD] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:390][ 89]LogBlueprint: Warning: [Compiler RunnerHUD] Could not find a variable named "Distance" in 'RunnerHUD'.
+Make sure 'RunnerHUD' has been compiled for  Get Distance
+[2018.03.02-19.30.52:391][ 89]LogBlueprint: Warning: [Compiler RunnerHUD] [0093.42] Compile of RunnerHUD failed. 6 Fatal Issue(s) 4 Warning(s) [in 5 ms] (/Game/UMG/RunnerHUD.RunnerHUD)
+[2018.03.02-19.30.52:393][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:393][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:393][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:393][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:394][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:394][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:394][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:394][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:394][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:394][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:395][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:395][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by PauseGame
+[2018.03.02-19.30.52:395][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:399][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:399][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_DynamicCast_16
+[2018.03.02-19.30.52:399][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:400][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:400][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:400][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:400][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableSet_79
+[2018.03.02-19.30.52:400][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:401][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:401][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:401][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:402][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_10
+[2018.03.02-19.30.52:402][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:402][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:402][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:403][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:403][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_112
+[2018.03.02-19.30.52:403][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:403][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:403][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_113
+[2018.03.02-19.30.52:404][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:404][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:404][ 89]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableGet_5
+[2018.03.02-19.30.52:404][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:404][ 89]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.30.52:405][ 89]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:407][ 89]LogBlueprint: Warning: [Compiler PauseGame] Get : 'Distance' variable not found. Base class was probably changed. /Game/UMG/PauseGame.PauseGame
+[2018.03.02-19.30.52:407][ 89]LogBlueprint: Warning: [Compiler PauseGame] Get : 'TotalCoins' variable not found. Base class was probably changed. /Game/UMG/PauseGame.PauseGame
+[2018.03.02-19.30.52:410][ 89]LogBlueprint: Error: [Compiler PauseGame] In use pin  My Char Ref  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:410][ 89]LogBlueprint: Error: [Compiler PauseGame] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:410][ 89]LogBlueprint: Error: [Compiler PauseGame] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.30.52:410][ 89]LogBlueprint: Error: [Compiler PauseGame] In use pin  As My Char  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:410][ 89]LogBlueprint: Error: [Compiler PauseGame] In use pin  <Unnamed>  no longer exists on node  Main Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:410][ 89]LogBlueprint: Error: [Compiler PauseGame] In use pin  Target  no longer exists on node  Main Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:410][ 89]LogBlueprint: Error: [Compiler PauseGame] Could not find a function named "MainMenu" in 'RunnerGameInstance_C'.
+Make sure 'RunnerGameInstance_C' has been compiled for  Main Menu
+[2018.03.02-19.30.52:411][ 89]LogBlueprint: Warning: [Compiler PauseGame] Could not find a variable named "TotalCoins" in 'PauseGame'.
+Make sure 'PauseGame' has been compiled for  Get TotalCoins
+[2018.03.02-19.30.52:411][ 89]LogBlueprint: Error: [Compiler PauseGame] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:411][ 89]LogBlueprint: Error: [Compiler PauseGame] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.30.52:411][ 89]LogBlueprint: Warning: [Compiler PauseGame] Could not find a variable named "Distance" in 'PauseGame'.
+Make sure 'PauseGame' has been compiled for  Get Distance
+[2018.03.02-19.30.52:413][ 89]LogBlueprint: Warning: [Compiler PauseGame] [0093.45] Compile of PauseGame failed. 9 Fatal Issue(s) 4 Warning(s) [in 8 ms] (/Game/UMG/PauseGame.PauseGame)
+[2018.03.02-19.30.52:414][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Audio/Explosion_Cue'
+[2018.03.02-19.30.52:414][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/Explosion_Cue' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:415][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Meshes/headset'
+[2018.03.02-19.30.52:415][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Meshes/headset' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset.
+[2018.03.02-19.30.52:418][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Materials/RunMat/Default_mat3'
+[2018.03.02-19.30.52:418][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/RunMat/Default_mat3' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:418][ 89]LoadErrors: Error: /Game/Blueprints/Actor/GameStart : Can't find file for asset. /Game/Assets/Materials/RunMat/Default_mat3
+[2018.03.02-19.30.52:418][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Materials/RunMat/Default_mat5'
+[2018.03.02-19.30.52:418][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/RunMat/Default_mat5' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:418][ 89]LoadErrors: Error: /Game/Blueprints/Actor/GameStart : Can't find file for asset. /Game/Assets/Materials/RunMat/Default_mat5
+[2018.03.02-19.30.52:418][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Audio/Explosion_Cue'
+[2018.03.02-19.30.52:418][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/Explosion_Cue' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:418][ 89]LoadErrors: Error: /Game/Blueprints/Actor/GameStart : Can't find file for asset. /Game/Assets/Audio/Explosion_Cue
+[2018.03.02-19.30.52:418][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Materials/RunMat/Default_mat3'
+[2018.03.02-19.30.52:419][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/RunMat/Default_mat3' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:419][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Materials/RunMat/Default_mat5'
+[2018.03.02-19.30.52:419][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/RunMat/Default_mat5' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:419][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Meshes/headset'
+[2018.03.02-19.30.52:419][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Meshes/headset' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:419][ 89]LoadErrors: Error: /Game/Blueprints/Actor/GameStart : Can't find file for asset. /Game/Assets/Meshes/headset
+[2018.03.02-19.30.52:419][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Audio/Explosion_Cue'
+[2018.03.02-19.30.52:419][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/Explosion_Cue' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:420][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Meshes/headset'
+[2018.03.02-19.30.52:420][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Meshes/headset' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:429][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Audio/Explosion_Cue'
+[2018.03.02-19.30.52:429][ 89]LoadErrors: Failed to load /Game/Assets/Audio/Explosion_Cue.Explosion_Cue Referenced by K2Node_CallFunction_432
+[2018.03.02-19.30.52:429][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/Explosion_Cue' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:432][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Meshes/headset'
+[2018.03.02-19.30.52:432][ 89]LoadErrors: Failed to load /Game/Assets/Meshes/headset.headset Referenced by Headset_GEN_VARIABLE
+[2018.03.02-19.30.52:432][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Meshes/headset' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:432][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Materials/RunMat/Default_mat5'
+[2018.03.02-19.30.52:432][ 89]LoadErrors: Failed to load /Game/Assets/Materials/RunMat/Default_mat5.Default_mat5 Referenced by Headset_GEN_VARIABLE
+[2018.03.02-19.30.52:432][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/RunMat/Default_mat5' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:433][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Materials/RunMat/Default_mat3'
+[2018.03.02-19.30.52:433][ 89]LoadErrors: Failed to load /Game/Assets/Materials/RunMat/Default_mat3.Default_mat3 Referenced by Headset_GEN_VARIABLE
+[2018.03.02-19.30.52:433][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/RunMat/Default_mat3' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:433][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Materials/RunMat/Default_mat5'
+[2018.03.02-19.30.52:433][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/RunMat/Default_mat5' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:434][ 89]LogLinker: Warning: Can't find file '/Game/Assets/Materials/RunMat/Default_mat3'
+[2018.03.02-19.30.52:434][ 89]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/RunMat/Default_mat3' while loading ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/GameStart.uasset.
+[2018.03.02-19.30.52:451][ 89]LogBlueprint: Warning: [Compiler MyChar] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.03.02-19.30.52:451][ 89]LogBlueprint: Warning: [Compiler MyChar] InputAction Event references unknown Action 'PauseGame' for  InputAction PauseGame
+[2018.03.02-19.30.52:464][ 89]LogBlueprint: Warning: [Compiler MyChar] [0093.50] Compile of MyChar successful, but with 2 Warning(s) [in 29 ms] (/Game/Blueprints/MyChar.MyChar)
+[2018.03.02-19.30.52:665][ 89]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.02-19.30.53:242][ 89]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.30.53:273][ 89]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CRT/Content/Maps/FirstMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.02-19.30.53:273][ 89]LightingResults: New page: Lighting Build
+[2018.03.02-19.30.53:274][ 89]LoadErrors: New page: Loading map: FirstMap.umap
+[2018.03.02-19.30.53:274][ 89]MapCheck: New page: Map Check
+[2018.03.02-19.30.53:274][ 89]LightingResults: New page: Lighting Build
+[2018.03.02-19.30.53:387][ 89]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.03.02-19.30.53:423][ 89]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.02-19.30.53:471][ 89]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.038ms to complete.
+[2018.03.02-19.30.53:472][ 89]LogFileHelpers: Loading map 'FirstMap' took 0.201
+[2018.03.02-19.31.09:939][668]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.02-19.31.10:087][673]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CRT
+[2018.03.02-19.31.10:089][673]LogTemp: CWD: E:\Program Files\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.02-19.31.10:089][673]LogTemp: Initial Dir: E:\Program Files\UE_4.18
+[2018.03.02-19.31.10:089][673]LogTemp: Env CWD: E:\Program Files\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.02-19.31.10:092][673]LogTemp: BranchPath = JACK/E/Program Files/UE_4.18/Engine/Binaries --- GameBranchPath = JACK/E/Program Files/UE_4.18/Engine/Binaries
+[2018.03.02-19.31.10:131][675]LogTemp: IPP ERROR: Could not find provision directory 'd:\Users\kasha\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.02-19.31.11:673][746]LogLinker: Warning: Can't find file '/Game/Blueprints/MainMenuGM'
+[2018.03.02-19.31.11:673][746]LogLinker: Warning: Can't find file '/Game/Blueprints/MainMenuGM'
+[2018.03.02-19.31.11:673][746]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/MainMenuGM.MainMenuGM_C'
+[2018.03.02-19.31.17:669][ 18]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.02-19.31.35:817][335]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.31.35:911][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.31.37:078][335]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:31:37 AM)
+[2018.03.02-19.31.37:078][335]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.31.37:084][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005932s)
+[2018.03.02-19.31.37:085][335]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.31.37:085][335]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.03.02-19.31.37:086][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.007248s)
+[2018.03.02-19.31.37:101][335]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.31.37:110][335]LogInit: FAudioDevice initialized.
+[2018.03.02-19.31.37:204][335]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.31.37:208][335]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.31.37
+[2018.03.02-19.31.37:209][335]LogWorld: Bringing up level for play took: 0.001831
+[2018.03.02-19.31.37:248][335]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.03.02-19.31.37:262][335]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap 1.756
+[2018.03.02-19.31.37:292][335]LogRenderer: Reallocating scene render targets to support 1208x1172 Format 10 NumSamples 1 (Frame:1).
+[2018.03.02-19.31.45:158][838]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.31.45:174][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.31.45:174][838]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:31:45 AM)
+[2018.03.02-19.31.45:174][838]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.31.45:179][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004796s)
+[2018.03.02-19.31.45:180][838]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.31.45:180][838]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2018.03.02-19.31.45:180][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.005820s)
+[2018.03.02-19.31.45:196][838]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.31.45:206][838]LogInit: FAudioDevice initialized.
+[2018.03.02-19.31.45:269][838]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.31.45:270][838]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.31.45
+[2018.03.02-19.31.45:270][838]LogWorld: Bringing up level for play took: 0.001079
+[2018.03.02-19.31.45:280][838]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.227
+[2018.03.02-19.31.51:270][317]LogEditorViewport: Clicking on Actor (LMB): GameStart_C (GameStart)
+[2018.03.02-19.32.09:620][434]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.32.09:635][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.32.09:635][434]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:32:09 AM)
+[2018.03.02-19.32.09:635][434]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.32.09:640][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004830s)
+[2018.03.02-19.32.09:641][434]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.32.09:641][434]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.03.02-19.32.09:641][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.005865s)
+[2018.03.02-19.32.09:658][434]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.32.09:666][434]LogInit: FAudioDevice initialized.
+[2018.03.02-19.32.09:732][434]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.32.09:733][434]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.32.09
+[2018.03.02-19.32.09:734][434]LogWorld: Bringing up level for play took: 0.000959
+[2018.03.02-19.32.09:743][434]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap 0.237
+[2018.03.02-19.32.19:232][ 35]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.32.19:247][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.32.19:247][ 35]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:32:19 AM)
+[2018.03.02-19.32.19:247][ 35]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.32.19:252][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004946s)
+[2018.03.02-19.32.19:253][ 35]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.32.19:253][ 35]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.03.02-19.32.19:253][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.006062s)
+[2018.03.02-19.32.19:273][ 35]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.32.19:282][ 35]LogInit: FAudioDevice initialized.
+[2018.03.02-19.32.19:347][ 35]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.32.19:348][ 35]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.32.19
+[2018.03.02-19.32.19:348][ 35]LogWorld: Bringing up level for play took: 0.001035
+[2018.03.02-19.32.19:359][ 35]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.148
+[2018.03.02-19.32.24:028][356]LogEditorViewport: Clicking on Actor (LMB): GameStart_C (GameStart)
+[2018.03.02-19.32.29:976][ 15]LogEditorViewport: Clicking on Actor (context menu): GameStart_C (GameStart)
+[2018.03.02-19.32.38:668][932]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.32.38:683][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.32.38:684][932]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:32:38 AM)
+[2018.03.02-19.32.38:684][932]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.32.38:689][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005264s)
+[2018.03.02-19.32.38:690][932]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.32.38:690][932]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2018.03.02-19.32.38:691][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.006735s)
+[2018.03.02-19.32.38:712][932]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.32.38:720][932]LogInit: FAudioDevice initialized.
+[2018.03.02-19.32.38:791][932]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.32.38:792][932]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.32.38
+[2018.03.02-19.32.38:792][932]LogWorld: Bringing up level for play took: 0.001028
+[2018.03.02-19.32.38:802][932]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.705
+[2018.03.02-19.32.40:569][ 68]LogEditorViewport: Clicking on Actor (LMB): GameStart_C (GameStart)
+[2018.03.02-19.32.42:535][278]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.32.42:550][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.32.42:550][278]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:32:42 AM)
+[2018.03.02-19.32.42:550][278]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.32.42:555][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004955s)
+[2018.03.02-19.32.42:556][278]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.32.42:556][278]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2018.03.02-19.32.42:557][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.006179s)
+[2018.03.02-19.32.42:573][278]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.32.42:581][278]LogInit: FAudioDevice initialized.
+[2018.03.02-19.32.42:646][278]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.32.42:648][278]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.32.42
+[2018.03.02-19.32.42:648][278]LogWorld: Bringing up level for play took: 0.001155
+[2018.03.02-19.32.42:657][278]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.85
+[2018.03.02-19.32.44:949][455]LogEditorViewport: Clicking on Actor (LMB): GameStart_C (GameStart)
+[2018.03.02-19.32.53:312][414]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.32.53:327][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.32.53:327][414]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:32:53 AM)
+[2018.03.02-19.32.53:328][414]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.32.53:332][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004693s)
+[2018.03.02-19.32.53:333][414]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.32.53:333][414]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2018.03.02-19.32.53:334][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.005898s)
+[2018.03.02-19.32.53:349][414]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.32.53:358][414]LogInit: FAudioDevice initialized.
+[2018.03.02-19.32.53:430][414]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.32.53:431][414]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.32.53
+[2018.03.02-19.32.53:432][414]LogWorld: Bringing up level for play took: 0.000976
+[2018.03.02-19.32.53:441][414]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.066
+[2018.03.02-19.32.56:060][618]LogEditorViewport: Clicking on Actor (LMB): GameStart_C (GameStart)
+[2018.03.02-19.33.00:970][160]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.33.00:985][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.33.00:985][160]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:33:00 AM)
+[2018.03.02-19.33.00:986][160]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.33.00:990][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004655s)
+[2018.03.02-19.33.00:991][160]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.33.00:992][160]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2018.03.02-19.33.00:992][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.006210s)
+[2018.03.02-19.33.01:007][160]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.33.01:015][160]LogInit: FAudioDevice initialized.
+[2018.03.02-19.33.01:084][160]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.33.01:086][160]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.33.01
+[2018.03.02-19.33.01:086][160]LogWorld: Bringing up level for play took: 0.001041
+[2018.03.02-19.33.01:095][160]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.411
+[2018.03.02-19.33.04:972][422]LogEditorViewport: Clicking on Actor (LMB): GameStart_C (GameStart)
+[2018.03.02-19.33.07:489][696]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.33.07:504][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.33.07:504][696]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:33:07 AM)
+[2018.03.02-19.33.07:504][696]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.33.07:509][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004949s)
+[2018.03.02-19.33.07:510][696]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.33.07:510][696]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2018.03.02-19.33.07:510][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.006046s)
+[2018.03.02-19.33.07:525][696]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.33.07:533][696]LogInit: FAudioDevice initialized.
+[2018.03.02-19.33.07:601][696]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.33.07:602][696]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.33.07
+[2018.03.02-19.33.07:602][696]LogWorld: Bringing up level for play took: 0.001044
+[2018.03.02-19.33.07:613][696]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap 0.106
+[2018.03.02-19.33.09:016][797]LogEditorViewport: Clicking on Actor (LMB): GameStart_C (GameStart)
+[2018.03.02-19.33.13:026][251]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.33.13:041][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.33.13:041][251]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:33:13 AM)
+[2018.03.02-19.33.13:041][251]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.33.13:046][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005016s)
+[2018.03.02-19.33.13:047][251]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.33.13:047][251]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2018.03.02-19.33.13:047][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.006117s)
+[2018.03.02-19.33.13:062][251]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.33.13:070][251]LogInit: FAudioDevice initialized.
+[2018.03.02-19.33.13:133][251]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.33.13:135][251]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.33.13
+[2018.03.02-19.33.13:135][251]LogWorld: Bringing up level for play took: 0.001109
+[2018.03.02-19.33.13:145][251]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.362
+[2018.03.02-19.33.14:635][354]LogEditorViewport: Clicking on Actor (LMB): GameStart_C (GameStart)
+[2018.03.02-19.33.18:759][817]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.33.18:774][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.33.18:774][817]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:33:18 AM)
+[2018.03.02-19.33.18:775][817]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.33.18:780][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004873s)
+[2018.03.02-19.33.18:780][817]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.33.18:780][817]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.03.02-19.33.18:781][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.005983s)
+[2018.03.02-19.33.18:796][817]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.33.18:804][817]LogInit: FAudioDevice initialized.
+[2018.03.02-19.33.18:873][817]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.33.18:874][817]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.33.18
+[2018.03.02-19.33.18:874][817]LogWorld: Bringing up level for play took: 0.001013
+[2018.03.02-19.33.18:884][817]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.623
+[2018.03.02-19.33.23:134][ 94]LogEditorViewport: Clicking on Actor (LMB): GameStart_C (GameStart)
+[2018.03.02-19.33.27:002][525]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.33.27:018][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.33.27:018][525]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:33:27 AM)
+[2018.03.02-19.33.27:018][525]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.33.27:023][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004663s)
+[2018.03.02-19.33.27:023][525]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.33.27:024][525]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.03.02-19.33.27:024][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.005635s)
+[2018.03.02-19.33.27:039][525]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.33.27:047][525]LogInit: FAudioDevice initialized.
+[2018.03.02-19.33.27:114][525]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.33.27:116][525]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.33.27
+[2018.03.02-19.33.27:116][525]LogWorld: Bringing up level for play took: 0.001087
+[2018.03.02-19.33.27:125][525]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.381
+[2018.03.02-19.33.36:676][154]LogEditorViewport: Clicking on Actor (LMB): GameStart_C (GameStart)
+[2018.03.02-19.33.53:577][132]LogEditorViewport: Clicking on Actor (LMB): GameStart_C (GameStart)
+[2018.03.02-19.33.58:724][690]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.33.58:739][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.33.58:739][690]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:33:58 AM)
+[2018.03.02-19.33.58:739][690]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.33.58:744][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004688s)
+[2018.03.02-19.33.58:744][690]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.33.58:745][690]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2018.03.02-19.33.58:745][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.005825s)
+[2018.03.02-19.33.58:760][690]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.33.58:768][690]LogInit: FAudioDevice initialized.
+[2018.03.02-19.33.58:839][690]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.33.58:840][690]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.33.58
+[2018.03.02-19.33.58:841][690]LogWorld: Bringing up level for play took: 0.000980
+[2018.03.02-19.33.58:850][690]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.657
+[2018.03.02-19.34.09:535][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.34.09:535][374]PIE: New page: SIE session: FirstMap (Mar 3, 2018, 1:34:09 AM)
+[2018.03.02-19.34.09:535][374]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.34.09:540][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004695s)
+[2018.03.02-19.34.09:541][374]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.34.09:541][374]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2018.03.02-19.34.09:541][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.005774s)
+[2018.03.02-19.34.09:555][374]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.34.09:564][374]LogInit: FAudioDevice initialized.
+[2018.03.02-19.34.09:594][374]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.34.09:596][374]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.34.09
+[2018.03.02-19.34.09:596][374]LogWorld: Bringing up level for play took: 0.001011
+[2018.03.02-19.34.09:597][374]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap 0.091
+[2018.03.02-19.34.18:733][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstMap" FILE="../../../../../Unreal Projects/CRT/Content/Maps/FirstMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.02-19.34.18:786][224]LogSavePackage: Save=35.02ms
+[2018.03.02-19.34.18:786][224]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/FirstMap2E3412394D100D9D00884181EB0D5D74.tmp' to '../../../../../Unreal Projects/CRT/Content/Maps/FirstMap.umap'
+[2018.03.02-19.34.18:788][224]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Maps/FirstMap.umap
+[2018.03.02-19.34.18:815][224]LogFileHelpers: Saving map 'FirstMap' took 0.131
+[2018.03.02-19.34.28:890][108]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.03.02-19.34.29:924][108]LogSlate: Took 0.017755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.02-19.34.32:133][212]LogSlate: Took 0.007441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.02-19.34.58:983][107]BlueprintLog: New page: Compile RunnerGM
+[2018.03.02-19.34.59:618][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/RunnerGM" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/GameMode/RunnerGM.uasset" SILENT=true
+[2018.03.02-19.34.59:662][129]LogSavePackage: Save=36.31ms
+[2018.03.02-19.34.59:662][129]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/RunnerGM7C8C1D5349078FECB8DDA299F8B06BEB.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/GameMode/RunnerGM.uasset'
+[2018.03.02-19.34.59:664][129]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/GameMode/RunnerGM.uasset
+[2018.03.02-19.35.01:221][280]LogTemp: Repeating last play command: Simulate
+[2018.03.02-19.35.01:241][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.35.01:241][280]PIE: New page: SIE session: FirstMap (Mar 3, 2018, 1:35:01 AM)
+[2018.03.02-19.35.01:241][280]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.35.01:246][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005103s)
+[2018.03.02-19.35.01:247][280]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.35.01:247][280]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2018.03.02-19.35.01:247][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.006149s)
+[2018.03.02-19.35.01:269][280]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.35.01:278][280]LogInit: FAudioDevice initialized.
+[2018.03.02-19.35.01:311][280]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.35.01:313][280]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.35.01
+[2018.03.02-19.35.01:313][280]LogWorld: Bringing up level for play took: 0.000907
+[2018.03.02-19.35.01:317][280]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.189
+[2018.03.02-19.35.15:479][280]LogTemp: Repeating last play command: Simulate
+[2018.03.02-19.35.15:496][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.35.15:496][280]PIE: New page: SIE session: FirstMap (Mar 3, 2018, 1:35:15 AM)
+[2018.03.02-19.35.15:496][280]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.35.15:502][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005193s)
+[2018.03.02-19.35.15:502][280]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.35.15:503][280]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2018.03.02-19.35.15:503][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.006210s)
+[2018.03.02-19.35.15:525][280]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.35.15:533][280]LogInit: FAudioDevice initialized.
+[2018.03.02-19.35.15:567][280]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.35.15:569][280]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.35.15
+[2018.03.02-19.35.15:569][280]LogWorld: Bringing up level for play took: 0.000884
+[2018.03.02-19.35.15:573][280]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap 0.066
+[2018.03.02-19.35.18:111][497]LogTemp: Repeating last play command: Simulate
+[2018.03.02-19.35.18:128][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.35.18:128][497]PIE: New page: SIE session: FirstMap (Mar 3, 2018, 1:35:18 AM)
+[2018.03.02-19.35.18:129][497]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.35.18:134][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005159s)
+[2018.03.02-19.35.18:135][497]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.35.18:136][497]LogPlayLevel: PIE: World Init took: (0.001929s)
+[2018.03.02-19.35.18:136][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.007521s)
+[2018.03.02-19.35.18:157][497]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.35.18:165][497]LogInit: FAudioDevice initialized.
+[2018.03.02-19.35.18:199][497]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.35.18:201][497]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.35.18
+[2018.03.02-19.35.18:201][497]LogWorld: Bringing up level for play took: 0.000967
+[2018.03.02-19.35.18:205][497]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap 0.698
+[2018.03.02-19.35.25:114][ 15]LogTemp: Repeating last play command: Simulate
+[2018.03.02-19.35.25:131][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.35.25:131][ 15]PIE: New page: SIE session: FirstMap (Mar 3, 2018, 1:35:25 AM)
+[2018.03.02-19.35.25:132][ 15]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.35.25:137][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005189s)
+[2018.03.02-19.35.25:138][ 15]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.35.25:138][ 15]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2018.03.02-19.35.25:138][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.006291s)
+[2018.03.02-19.35.25:159][ 15]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.35.25:168][ 15]LogInit: FAudioDevice initialized.
+[2018.03.02-19.35.25:202][ 15]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.35.25:203][ 15]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.35.25
+[2018.03.02-19.35.25:204][ 15]LogWorld: Bringing up level for play took: 0.001085
+[2018.03.02-19.35.25:208][ 15]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.299
+[2018.03.02-19.35.26:723][143]LogTemp: Repeating last play command: Simulate
+[2018.03.02-19.35.26:740][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.35.26:741][143]PIE: New page: SIE session: FirstMap (Mar 3, 2018, 1:35:26 AM)
+[2018.03.02-19.35.26:741][143]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.35.26:746][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004575s)
+[2018.03.02-19.35.26:746][143]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.35.26:746][143]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2018.03.02-19.35.26:747][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.005628s)
+[2018.03.02-19.35.26:769][143]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.35.26:777][143]LogInit: FAudioDevice initialized.
+[2018.03.02-19.35.26:809][143]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.35.26:811][143]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.35.26
+[2018.03.02-19.35.26:811][143]LogWorld: Bringing up level for play took: 0.000849
+[2018.03.02-19.35.26:814][143]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.692
+[2018.03.02-19.36.25:325][ 37]BlueprintLog: New page: Compile RunnerGM
+[2018.03.02-19.36.25:960][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/RunnerGM" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/GameMode/RunnerGM.uasset" SILENT=true
+[2018.03.02-19.36.25:997][ 59]LogSavePackage: Save=34.47ms
+[2018.03.02-19.36.25:997][ 59]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/RunnerGMF7A169494D69D2730E1D59B103138093.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/GameMode/RunnerGM.uasset'
+[2018.03.02-19.36.25:999][ 59]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/GameMode/RunnerGM.uasset
+[2018.03.02-19.36.27:282][176]LogTemp: Repeating last play command: Simulate
+[2018.03.02-19.36.27:299][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.36.27:299][176]PIE: New page: SIE session: FirstMap (Mar 3, 2018, 1:36:27 AM)
+[2018.03.02-19.36.27:299][176]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.36.27:304][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004789s)
+[2018.03.02-19.36.27:305][176]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.36.27:305][176]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.03.02-19.36.27:305][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.005987s)
+[2018.03.02-19.36.27:328][176]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.36.27:336][176]LogInit: FAudioDevice initialized.
+[2018.03.02-19.36.27:372][176]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.36.27:374][176]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.36.27
+[2018.03.02-19.36.27:374][176]LogWorld: Bringing up level for play took: 0.000981
+[2018.03.02-19.36.27:376][176]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.27:376][176]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.27:376][176]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.27:377][176]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.27:377][176]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.27:378][176]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.27:378][176]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.27:378][176]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.128
+[2018.03.02-19.36.31:963][521]LogTemp: Repeating last play command: Simulate
+[2018.03.02-19.36.31:980][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.36.31:980][521]PIE: New page: SIE session: FirstMap (Mar 3, 2018, 1:36:31 AM)
+[2018.03.02-19.36.31:980][521]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.36.31:985][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004738s)
+[2018.03.02-19.36.31:986][521]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.36.31:986][521]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2018.03.02-19.36.31:987][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.006099s)
+[2018.03.02-19.36.32:010][521]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.36.32:018][521]LogInit: FAudioDevice initialized.
+[2018.03.02-19.36.32:053][521]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.36.32:055][521]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.36.32
+[2018.03.02-19.36.32:055][521]LogWorld: Bringing up level for play took: 0.001072
+[2018.03.02-19.36.32:057][521]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.32:057][521]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.32:057][521]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.32:058][521]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.32:058][521]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.32:059][521]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.32:059][521]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.36.32:059][521]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap 0.553
+[2018.03.02-19.37.28:332][384]BlueprintLog: New page: Compile RunnerGM
+[2018.03.02-19.37.28:917][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode/RunnerGM" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/GameMode/RunnerGM.uasset" SILENT=true
+[2018.03.02-19.37.28:955][403]LogSavePackage: Save=35.87ms
+[2018.03.02-19.37.28:955][403]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/RunnerGMBDA9ED9F4A2ED9E9F5F6CD8CB7616198.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/GameMode/RunnerGM.uasset'
+[2018.03.02-19.37.28:957][403]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/GameMode/RunnerGM.uasset
+[2018.03.02-19.37.37:562][374]LogEditorViewport: Clicking on Actor (LMB): GameStart_C (GameStart)
+[2018.03.02-19.38.22:440][897]Cmd: DELETE
+[2018.03.02-19.38.22:440][897]Cmd: ACTOR DELETE
+[2018.03.02-19.38.22:442][897]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.03.02-19.38.22:459][897]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.03.02-19.38.23:839][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstMap" FILE="../../../../../Unreal Projects/CRT/Content/Maps/FirstMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.02-19.38.23:886][ 39]LogSavePackage: Save=28.98ms
+[2018.03.02-19.38.23:886][ 39]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/FirstMapCF652B444081E0D983201AA617646711.tmp' to '../../../../../Unreal Projects/CRT/Content/Maps/FirstMap.umap'
+[2018.03.02-19.38.23:888][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Maps/FirstMap.umap
+[2018.03.02-19.38.23:919][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstMap_BuiltData" FILE="../../../../../Unreal Projects/CRT/Content/Maps/FirstMap_BuiltData.uasset" SILENT=true
+[2018.03.02-19.38.23:940][ 39]LogSavePackage: Save=15.04ms
+[2018.03.02-19.38.23:940][ 39]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/FirstMap_BuiltData4943CDE747F03593F5D4FBBC66BA38A6.tmp' to '../../../../../Unreal Projects/CRT/Content/Maps/FirstMap_BuiltData.uasset'
+[2018.03.02-19.38.23:940][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Maps/FirstMap_BuiltData.uasset
+[2018.03.02-19.38.35:151][127]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.02-19.38.35:533][127]LogLinker: Warning: Can't find file '/Game/Assets/Meshes/headset'
+[2018.03.02-19.38.35:534][127]LogLinker: Warning: Can't find file '/Game/Assets/Meshes/headset'
+[2018.03.02-19.38.35:535][127]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Assets/Meshes/headset.headset'
+[2018.03.02-19.38.35:550][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.02-19.38.36:087][127]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.03.02-19.38.36:093][127]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.02-19.38.44:593][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.03.02-19.39.17:579][559]BlueprintLog: New page: Compile RunnerAnimBP
+[2018.03.02-19.39.18:209][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/Animations/RunnerAnimBP" FILE="../../../../../Unreal Projects/CRT/Content/Anim/Animations/RunnerAnimBP.uasset" SILENT=true
+[2018.03.02-19.39.18:451][589]LogSavePackage: Save=233.19ms
+[2018.03.02-19.39.18:451][589]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/RunnerAnimBPC1B7993D408ADE434FE79086383B5C67.tmp' to '../../../../../Unreal Projects/CRT/Content/Anim/Animations/RunnerAnimBP.uasset'
+[2018.03.02-19.39.18:453][589]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Anim/Animations/RunnerAnimBP.uasset
+[2018.03.02-19.39.25:827][329]BlueprintLog: New page: Compile RunnerAnimBP
+[2018.03.02-19.39.26:405][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/Animations/RunnerAnimBP" FILE="../../../../../Unreal Projects/CRT/Content/Anim/Animations/RunnerAnimBP.uasset" SILENT=true
+[2018.03.02-19.39.26:511][352]LogSavePackage: Save=103.70ms
+[2018.03.02-19.39.26:512][352]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/RunnerAnimBP65194416479AF2DC7EFB8084CEA67485.tmp' to '../../../../../Unreal Projects/CRT/Content/Anim/Animations/RunnerAnimBP.uasset'
+[2018.03.02-19.39.26:513][352]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Anim/Animations/RunnerAnimBP.uasset
+[2018.03.02-19.39.28:271][496]LogTemp: Repeating last play command: Simulate
+[2018.03.02-19.39.28:286][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.39.28:286][496]PIE: New page: SIE session: FirstMap (Mar 3, 2018, 1:39:28 AM)
+[2018.03.02-19.39.28:287][496]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.39.28:289][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002064s)
+[2018.03.02-19.39.28:290][496]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.39.28:290][496]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2018.03.02-19.39.28:290][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.003202s)
+[2018.03.02-19.39.28:314][496]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.39.28:322][496]LogInit: FAudioDevice initialized.
+[2018.03.02-19.39.28:353][496]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.39.28:355][496]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.39.28
+[2018.03.02-19.39.28:355][496]LogWorld: Bringing up level for play took: 0.000973
+[2018.03.02-19.39.28:357][496]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.39.28:357][496]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.39.28:357][496]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.39.28:358][496]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.39.28:358][496]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.39.28:359][496]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.39.28:359][496]LogBlueprintUserMessages: [RunnerGM_C_0] GM Failed!
+[2018.03.02-19.39.28:359][496]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap 0.853
+[2018.03.02-19.39.32:155][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.39.32:156][740]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:39:32 AM)
+[2018.03.02-19.39.32:156][740]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.39.32:158][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002001s)
+[2018.03.02-19.39.32:159][740]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.39.32:159][740]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2018.03.02-19.39.32:159][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.003231s)
+[2018.03.02-19.39.32:180][740]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.39.32:191][740]LogInit: FAudioDevice initialized.
+[2018.03.02-19.39.32:257][740]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.39.32:259][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.39.32
+[2018.03.02-19.39.32:259][740]LogWorld: Bringing up level for play took: 0.001127
+[2018.03.02-19.39.32:270][740]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap 0.763
+[2018.03.02-19.39.47:507][658]LogSavePackage: Save=5.93ms
+[2018.03.02-19.39.47:507][658]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/SK_Mannequin_SkeletonFB106BF546469A7055085F95B3250F5C.tmp' to '../../../../../Unreal Projects/CRT/Content/Assets/Mannequin/Character/Mesh/SK_Mannequin_Skeleton.uasset'
+[2018.03.02-19.39.47:508][658]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Assets/Mannequin/Character/Mesh/SK_Mannequin_Skeleton.uasset
+[2018.03.02-19.40.05:858][968]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.02-19.40.05:941][971]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CRT
+[2018.03.02-19.40.05:941][971]LogTemp: CWD: E:\Program Files\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.02-19.40.05:941][971]LogTemp: Initial Dir: E:\Program Files\UE_4.18
+[2018.03.02-19.40.05:941][971]LogTemp: Env CWD: E:\Program Files\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.02-19.40.05:951][972]LogTemp: BranchPath = JACK/E/Program Files/UE_4.18/Engine/Binaries --- GameBranchPath = JACK/E/Program Files/UE_4.18/Engine/Binaries
+[2018.03.02-19.40.05:960][973]LogTemp: IPP ERROR: Could not find provision directory 'd:\Users\kasha\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.02-19.40.37:915][970]BlueprintLog: New page: Compile MyChar
+[2018.03.02-19.40.38:876][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyChar" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset" SILENT=true
+[2018.03.02-19.40.39:082][996]LogSavePackage: Save=198.51ms
+[2018.03.02-19.40.39:082][996]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/MyChar5C2258E243ABE32150331D8446D0EB7E.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset'
+[2018.03.02-19.40.39:083][996]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/MyChar.uasset
+[2018.03.02-19.40.57:249][756]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.40.57:273][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.40.57:274][756]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:40:57 AM)
+[2018.03.02-19.40.57:275][756]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.40.57:277][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001757s)
+[2018.03.02-19.40.57:277][756]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.40.57:277][756]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2018.03.02-19.40.57:277][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.002657s)
+[2018.03.02-19.40.57:300][756]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.40.57:309][756]LogInit: FAudioDevice initialized.
+[2018.03.02-19.40.57:377][756]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.40.57:379][756]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.40.57
+[2018.03.02-19.40.57:379][756]LogWorld: Bringing up level for play took: 0.000971
+[2018.03.02-19.40.57:389][756]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.117
+[2018.03.02-19.43.29:497][727]BlueprintLog: New page: Compile BP_Pickup
+[2018.03.02-19.43.30:143][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/BP_Pickup" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Pickup.uasset" SILENT=true
+[2018.03.02-19.43.30:172][742]LogSavePackage: Save=26.99ms
+[2018.03.02-19.43.30:172][742]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/BP_Pickup448B0F7D45C3E6A5144C0B8A06723B16.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Pickup.uasset'
+[2018.03.02-19.43.30:173][742]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Pickup.uasset
+[2018.03.02-19.44.59:646][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/BP_LaunchPad" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_LaunchPad.uasset" SILENT=true
+[2018.03.02-19.44.59:659][262]LogSavePackage: Save=11.63ms
+[2018.03.02-19.44.59:659][262]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/BP_LaunchPad5097990C4C4220DD043D01819FE45B52.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_LaunchPad.uasset'
+[2018.03.02-19.44.59:661][262]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_LaunchPad.uasset
+[2018.03.02-19.45.16:509][969]BlueprintLog: New page: Compile GameOver
+[2018.03.02-19.45.16:555][969]LogBlueprint: Error: [Compiler GameOver] In use pin  My Char Ref  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.03.02-19.45.16:555][969]LogBlueprint: Error: [Compiler GameOver] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.45.16:555][969]LogBlueprint: Error: [Compiler GameOver] In use pin  As My Char  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.45.16:555][969]LogBlueprint: Error: [Compiler GameOver] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.45.16:556][969]LogBlueprint: Warning: [Compiler GameOver] Could not find a variable named "TotalCoins" in 'GameOver'.
+Make sure 'GameOver' has been compiled for  Get TotalCoins
+[2018.03.02-19.45.16:556][969]LogBlueprint: Error: [Compiler GameOver] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.45.16:556][969]LogBlueprint: Error: [Compiler GameOver] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.45.16:556][969]LogBlueprint: Warning: [Compiler GameOver] Could not find a variable named "Distance" in 'GameOver'.
+Make sure 'GameOver' has been compiled for  Get Distance
+[2018.03.02-19.45.16:557][969]LogBlueprint: Error: [Compiler GameOver] Binding: Property ' Text Delegate ' on Widget ' TextBlock_72 ': Binding: 'GetCoinsTotal' : 'GetCoinsTotal' was not found on 'Game Over'.
+[2018.03.02-19.45.16:557][969]LogBlueprint: Error: [Compiler GameOver] Binding: Property ' Text Delegate ' on Widget ' TextBlock_14 ': Binding: 'GetDistance' : 'GetDistance' was not found on 'Game Over'.
+[2018.03.02-19.45.16:592][969]LogBlueprint: Warning: [Compiler GameOver] [0957.63] Compile of GameOver failed. 8 Fatal Issue(s) 2 Warning(s) [in 83 ms] (/Game/UMG/GameOver.GameOver)
+[2018.03.02-19.45.19:722][282]BlueprintLog: New page: Compile GameOver
+[2018.03.02-19.45.19:740][282]LogBlueprint: Error: [Compiler GameOver] In use pin  My Char Ref  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.03.02-19.45.19:740][282]LogBlueprint: Error: [Compiler GameOver] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.45.19:740][282]LogBlueprint: Error: [Compiler GameOver] In use pin  As My Char  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.45.19:740][282]LogBlueprint: Error: [Compiler GameOver] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.45.19:741][282]LogBlueprint: Warning: [Compiler GameOver] Could not find a variable named "TotalCoins" in 'GameOver'.
+Make sure 'GameOver' has been compiled for  Get TotalCoins
+[2018.03.02-19.45.19:741][282]LogBlueprint: Error: [Compiler GameOver] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.45.19:741][282]LogBlueprint: Error: [Compiler GameOver] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.45.19:741][282]LogBlueprint: Warning: [Compiler GameOver] Could not find a variable named "Distance" in 'GameOver'.
+Make sure 'GameOver' has been compiled for  Get Distance
+[2018.03.02-19.45.19:743][282]LogBlueprint: Error: [Compiler GameOver] Binding: Property ' Text Delegate ' on Widget ' TextBlock_72 ': Binding: 'GetCoinsTotal' : 'GetCoinsTotal' was not found on 'Game Over'.
+[2018.03.02-19.45.19:743][282]LogBlueprint: Error: [Compiler GameOver] Binding: Property ' Text Delegate ' on Widget ' TextBlock_14 ': Binding: 'GetDistance' : 'GetDistance' was not found on 'Game Over'.
+[2018.03.02-19.45.19:777][282]LogBlueprint: Warning: [Compiler GameOver] [0960.81] Compile of GameOver failed. 8 Fatal Issue(s) 2 Warning(s) [in 55 ms] (/Game/UMG/GameOver.GameOver)
+[2018.03.02-19.45.20:235][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/GameOver" FILE="../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset" SILENT=true
+[2018.03.02-19.45.20:307][310]LogSavePackage: Save=64.31ms
+[2018.03.02-19.45.20:307][310]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/GameOver019570734F7C76485258E5921F26E804.tmp' to '../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset'
+[2018.03.02-19.45.20:309][310]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset
+[2018.03.02-19.45.40:205][912]BlueprintLog: New page: Compile GameOver
+[2018.03.02-19.45.40:224][912]LogBlueprint: Warning: [Compiler GameOver] Could not find a variable named "TotalCoins" in 'GameOver'.
+Make sure 'GameOver' has been compiled for  Get TotalCoins
+[2018.03.02-19.45.40:224][912]LogBlueprint: Error: [Compiler GameOver] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.45.40:224][912]LogBlueprint: Error: [Compiler GameOver] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.45.40:224][912]LogBlueprint: Warning: [Compiler GameOver] Could not find a variable named "Distance" in 'GameOver'.
+Make sure 'GameOver' has been compiled for  Get Distance
+[2018.03.02-19.45.40:226][912]LogBlueprint: Error: [Compiler GameOver] Binding: Property ' Text Delegate ' on Widget ' TextBlock_72 ': Binding: 'GetCoinsTotal' : 'GetCoinsTotal' was not found on 'Game Over'.
+[2018.03.02-19.45.40:226][912]LogBlueprint: Error: [Compiler GameOver] Binding: Property ' Text Delegate ' on Widget ' TextBlock_14 ': Binding: 'GetDistance' : 'GetDistance' was not found on 'Game Over'.
+[2018.03.02-19.45.40:261][912]LogBlueprint: Warning: [Compiler GameOver] [0981.29] Compile of GameOver failed. 4 Fatal Issue(s) 2 Warning(s) [in 55 ms] (/Game/UMG/GameOver.GameOver)
+[2018.03.02-19.45.40:768][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/GameOver" FILE="../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset" SILENT=true
+[2018.03.02-19.45.40:836][944]LogSavePackage: Save=64.85ms
+[2018.03.02-19.45.40:836][944]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/GameOver3B7C0D5449DD52D675725C9270420410.tmp' to '../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset'
+[2018.03.02-19.45.40:838][944]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset
+[2018.03.02-19.45.55:667][370]BlueprintLog: New page: Compile GameOver
+[2018.03.02-19.45.56:166][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/GameOver" FILE="../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset" SILENT=true
+[2018.03.02-19.45.56:233][397]LogSavePackage: Save=64.11ms
+[2018.03.02-19.45.56:233][397]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/GameOver496F6BDF4B652908D8FDB9BF8C53D48E.tmp' to '../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset'
+[2018.03.02-19.45.56:235][397]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/UMG/GameOver.uasset
+[2018.03.02-19.46.02:932][941]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.02-19.46.03:279][972]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.02-19.46.05:479][185]LogBlueprint: Error: [Compiler LeaderBoard] In use pin  <Unnamed>  no longer exists on node  Main Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.46.05:479][185]LogBlueprint: Error: [Compiler LeaderBoard] In use pin  Target  no longer exists on node  Main Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.46.05:479][185]LogBlueprint: Error: [Compiler LeaderBoard] Could not find a function named "MainMenu" in 'RunnerGameInstance_C'.
+Make sure 'RunnerGameInstance_C' has been compiled for  Main Menu
+[2018.03.02-19.46.05:480][185]LogBlueprint: Warning: [Compiler LeaderBoard] [1006.51] Compile of LeaderBoard failed. 3 Fatal Issue(s) 0 Warning(s) [in 4 ms] (/Game/UMG/LeaderBoard.LeaderBoard)
+[2018.03.02-19.46.12:423][748]BlueprintLog: New page: Compile LeaderBoard
+[2018.03.02-19.46.12:943][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LeaderBoard" FILE="../../../../../Unreal Projects/CRT/Content/UMG/LeaderBoard.uasset" SILENT=true
+[2018.03.02-19.46.12:999][776]LogSavePackage: Save=49.90ms
+[2018.03.02-19.46.12:999][776]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/LeaderBoardFD8E818143585D481ADCF080083D3502.tmp' to '../../../../../Unreal Projects/CRT/Content/UMG/LeaderBoard.uasset'
+[2018.03.02-19.46.13:001][776]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/UMG/LeaderBoard.uasset
+[2018.03.02-19.46.43:807][777]BlueprintLog: New page: Compile MainMenu
+[2018.03.02-19.46.43:852][777]LogBlueprint: Warning: [Compiler MainMenu] Could not find a variable named "PlayerDistance" in 'MainMenu'.
+Make sure 'MainMenu' has been compiled for  Get PlayerDistance
+[2018.03.02-19.46.43:852][777]LogBlueprint: Error: [Compiler MainMenu] In use pin  My Char Ref  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.03.02-19.46.43:852][777]LogBlueprint: Warning: [Compiler MainMenu] Could not find a variable named "PlayerCoins" in 'MainMenu'.
+Make sure 'MainMenu' has been compiled for  Get PlayerCoins
+[2018.03.02-19.46.43:852][777]LogBlueprint: Error: [Compiler MainMenu] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.46.43:852][777]LogBlueprint: Error: [Compiler MainMenu] In use pin  As Save Game 2  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.46.43:852][777]LogBlueprint: Error: [Compiler MainMenu] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.46.43:852][777]LogBlueprint: Error: [Compiler MainMenu] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.46.43:852][777]LogBlueprint: Error: [Compiler MainMenu] In use pin  As My Char  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.46.43:852][777]LogBlueprint: Error: [Compiler MainMenu] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.46.43:853][777]LogBlueprint: Error: [Compiler MainMenu] In use pin  <Unnamed>  no longer exists on node  Score Board . Please refresh node or break links to remove pin.
+[2018.03.02-19.46.43:853][777]LogBlueprint: Error: [Compiler MainMenu] In use pin  Target  no longer exists on node  Score Board . Please refresh node or break links to remove pin.
+[2018.03.02-19.46.43:853][777]LogBlueprint: Error: [Compiler MainMenu] Could not find a function named "ScoreBoard" in 'RunnerGameInstance_C'.
+Make sure 'RunnerGameInstance_C' has been compiled for  Score Board
+[2018.03.02-19.46.43:853][777]LogBlueprint: Error: [Compiler MainMenu] In use pin  <Unnamed>  no longer exists on node  Settings Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.46.43:853][777]LogBlueprint: Error: [Compiler MainMenu] In use pin  Target  no longer exists on node  Settings Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.46.43:853][777]LogBlueprint: Error: [Compiler MainMenu] Could not find a function named "SettingsMenu" in 'RunnerGameInstance_C'.
+Make sure 'RunnerGameInstance_C' has been compiled for  Settings Menu
+[2018.03.02-19.46.43:854][777]LogBlueprint: Error: [Compiler MainMenu] The property associated with  Player Distance  could not be found
+[2018.03.02-19.46.43:855][777]LogBlueprint: Error: [Compiler MainMenu] The property associated with  Player Coins  could not be found
+[2018.03.02-19.46.43:894][777]LogBlueprint: Warning: [Compiler MainMenu] [1044.93] Compile of MainMenu failed. 15 Fatal Issue(s) 2 Warning(s) [in 86 ms] (/Game/UMG/MainMenu.MainMenu)
+[2018.03.02-19.46.44:340][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/MainMenu" FILE="../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset" SILENT=true
+[2018.03.02-19.46.44:518][802]LogSavePackage: Save=170.93ms
+[2018.03.02-19.46.44:518][802]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/MainMenuA70B30CC40B4BC353762279017F52958.tmp' to '../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset'
+[2018.03.02-19.46.44:520][802]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset
+[2018.03.02-19.46.57:406][ 98]BlueprintLog: New page: Compile MainMenu
+[2018.03.02-19.46.57:919][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/MainMenu" FILE="../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset" SILENT=true
+[2018.03.02-19.46.58:086][123]LogSavePackage: Save=164.77ms
+[2018.03.02-19.46.58:086][123]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/MainMenuCC6211F84ACE42E597446281CFC36F4F.tmp' to '../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset'
+[2018.03.02-19.46.58:088][123]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/UMG/MainMenu.uasset
+[2018.03.02-19.47.10:700][316]BlueprintLog: New page: Compile PauseGame
+[2018.03.02-19.47.10:721][316]LogBlueprint: Warning: [Compiler PauseGame] Could not find a variable named "TotalCoins" in 'PauseGame'.
+Make sure 'PauseGame' has been compiled for  Get TotalCoins
+[2018.03.02-19.47.10:721][316]LogBlueprint: Error: [Compiler PauseGame] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.47.10:722][316]LogBlueprint: Error: [Compiler PauseGame] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.47.10:722][316]LogBlueprint: Warning: [Compiler PauseGame] Could not find a variable named "Distance" in 'PauseGame'.
+Make sure 'PauseGame' has been compiled for  Get Distance
+[2018.03.02-19.47.10:723][316]LogBlueprint: Error: [Compiler PauseGame] Binding: Property ' Text Delegate ' on Widget ' TextBlock_7 ': Binding: 'GetCoinsTotal' : 'GetCoinsTotal' was not found on 'Pause Game'.
+[2018.03.02-19.47.10:723][316]LogBlueprint: Error: [Compiler PauseGame] Binding: Property ' Text Delegate ' on Widget ' TextBlock_5 ': Binding: 'GetDistance' : 'GetDistance' was not found on 'Pause Game'.
+[2018.03.02-19.47.10:756][316]LogBlueprint: Warning: [Compiler PauseGame] [1071.79] Compile of PauseGame failed. 4 Fatal Issue(s) 2 Warning(s) [in 56 ms] (/Game/UMG/PauseGame.PauseGame)
+[2018.03.02-19.47.11:165][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/PauseGame" FILE="../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset" SILENT=true
+[2018.03.02-19.47.11:244][341]LogSavePackage: Save=71.39ms
+[2018.03.02-19.47.11:244][341]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/PauseGameF48F7EFD4D5DE3F8547011B6A6C6B18B.tmp' to '../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset'
+[2018.03.02-19.47.11:246][341]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset
+[2018.03.02-19.47.18:425][ 40]BlueprintLog: New page: Compile PauseGame
+[2018.03.02-19.47.18:903][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/PauseGame" FILE="../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset" SILENT=true
+[2018.03.02-19.47.18:975][ 65]LogSavePackage: Save=69.57ms
+[2018.03.02-19.47.18:975][ 65]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/PauseGameEB31FB7F4B886B7FD657CAA1FCED71D2.tmp' to '../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset'
+[2018.03.02-19.47.18:977][ 65]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/UMG/PauseGame.uasset
+[2018.03.02-19.47.43:685][ 93]BlueprintLog: New page: Compile RunnerHUD
+[2018.03.02-19.47.43:705][ 93]LogBlueprint: Warning: [Compiler RunnerHUD] Could not find a variable named "TotalCoins" in 'RunnerHUD'.
+Make sure 'RunnerHUD' has been compiled for  Get TotalCoins
+[2018.03.02-19.47.43:705][ 93]LogBlueprint: Error: [Compiler RunnerHUD] In use pin  My Char Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.03.02-19.47.43:706][ 93]LogBlueprint: Error: [Compiler RunnerHUD] Binding: Property ' Text Delegate ' on Widget ' TextBlock_1 ': Binding: 'GetCoinsTotal' : 'GetCoinsTotal' was not found on 'Runner HUD'.
+[2018.03.02-19.47.43:736][ 93]LogBlueprint: Warning: [Compiler RunnerHUD] [1104.77] Compile of RunnerHUD failed. 2 Fatal Issue(s) 1 Warning(s) [in 50 ms] (/Game/UMG/RunnerHUD.RunnerHUD)
+[2018.03.02-19.47.44:176][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/RunnerHUD" FILE="../../../../../Unreal Projects/CRT/Content/UMG/RunnerHUD.uasset" SILENT=true
+[2018.03.02-19.47.44:233][120]LogSavePackage: Save=49.35ms
+[2018.03.02-19.47.44:233][120]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/RunnerHUD793718844C7E5027492906AA0598419D.tmp' to '../../../../../Unreal Projects/CRT/Content/UMG/RunnerHUD.uasset'
+[2018.03.02-19.47.44:235][120]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/UMG/RunnerHUD.uasset
+[2018.03.02-19.47.52:834][958]BlueprintLog: New page: Compile RunnerHUD
+[2018.03.02-19.47.53:479][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/RunnerHUD" FILE="../../../../../Unreal Projects/CRT/Content/UMG/RunnerHUD.uasset" SILENT=true
+[2018.03.02-19.47.53:532][  8]LogSavePackage: Save=49.99ms
+[2018.03.02-19.47.53:532][  8]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/RunnerHUDDA0909F64D0246F9CC5D51AD22BBD6F2.tmp' to '../../../../../Unreal Projects/CRT/Content/UMG/RunnerHUD.uasset'
+[2018.03.02-19.47.53:534][  8]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/UMG/RunnerHUD.uasset
+[2018.03.02-19.47.59:237][634]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.02-19.47.59:267][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-19.47.59:267][634]PIE: New page: PIE session: FirstMap (Mar 3, 2018, 1:47:59 AM)
+[2018.03.02-19.47.59:267][634]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstMap
+[2018.03.02-19.47.59:269][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002062s)
+[2018.03.02-19.47.59:270][634]LogAIModule: Creating AISystem for world FirstMap
+[2018.03.02-19.47.59:270][634]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2018.03.02-19.47.59:271][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstMap.FirstMap to /Game/Maps/UEDPIE_0_FirstMap.FirstMap (0.003350s)
+[2018.03.02-19.47.59:292][634]LogInit: XAudio2 using 'Динамики (Razer Banshee)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-19.47.59:301][634]LogInit: FAudioDevice initialized.
+[2018.03.02-19.47.59:371][634]LogLoad: Game class is 'RunnerGM_C'
+[2018.03.02-19.47.59:373][634]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.03.02-22.47.59
+[2018.03.02-19.47.59:373][634]LogWorld: Bringing up level for play took: 0.001049
+[2018.03.02-19.47.59:384][634]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstMap -0.123
+[2018.03.02-19.48.06:455][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:455][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/SelectGM.uasset.
+[2018.03.02-19.48.06:455][140]LoadErrors: Error: /Game/UMG/SelectGM : Can't find file for asset. /Game/Blueprints/Character/MyChar
+[2018.03.02-19.48.06:456][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:456][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/SelectGM.uasset.
+[2018.03.02-19.48.06:456][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:456][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/SelectGM.uasset.
+[2018.03.02-19.48.06:458][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:458][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading ../../../../../Unreal Projects/CRT/Content/UMG/SelectGM.uasset.
+[2018.03.02-19.48.06:516][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:516][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading NULL.
+[2018.03.02-19.48.06:516][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:517][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading NULL.
+[2018.03.02-19.48.06:517][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:517][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading NULL.
+[2018.03.02-19.48.06:517][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:517][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading NULL.
+[2018.03.02-19.48.06:517][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:517][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading NULL.
+[2018.03.02-19.48.06:520][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:520][140]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_DynamicCast_1
+[2018.03.02-19.48.06:520][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading NULL.
+[2018.03.02-19.48.06:521][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:521][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading NULL.
+[2018.03.02-19.48.06:521][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:521][140]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableSet_0
+[2018.03.02-19.48.06:521][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading NULL.
+[2018.03.02-19.48.06:521][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:521][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading NULL.
+[2018.03.02-19.48.06:522][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:522][140]LoadErrors: Failed to load /Game/Blueprints/Character/MyChar.MyChar_C Referenced by K2Node_VariableSet_1
+[2018.03.02-19.48.06:522][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading NULL.
+[2018.03.02-19.48.06:522][140]LogLinker: Warning: Can't find file '/Game/Blueprints/Character/MyChar'
+[2018.03.02-19.48.06:522][140]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Character/MyChar' while loading NULL.
+[2018.03.02-19.48.06:524][140]LogBlueprint: Warning: [Compiler SelectGM] Set : 'IsDead' variable not found. Base class was probably changed. /Game/UMG/SelectGM.SelectGM
+[2018.03.02-19.48.06:524][140]LogBlueprint: Warning: [Compiler SelectGM] Set IsDead : 'IsDead' variable not found. Base class was probably changed. /Game/UMG/SelectGM.SelectGM
+[2018.03.02-19.48.06:524][140]LogBlueprint: Warning: [Compiler SelectGM] Set : 'IsReady?' variable not found. Base class was probably changed. /Game/UMG/SelectGM.SelectGM
+[2018.03.02-19.48.06:524][140]LogBlueprint: Warning: [Compiler SelectGM] Set IsReady? : 'IsReady?' variable not found. Base class was probably changed. /Game/UMG/SelectGM.SelectGM
+[2018.03.02-19.48.06:526][140]LogBlueprint: Warning: [Compiler SelectGM] Could not find a variable named "IsReady?" in 'SelectGM'.
+Make sure 'SelectGM' has been compiled for  Set IsReady?
+[2018.03.02-19.48.06:526][140]LogBlueprint: Warning: [Compiler SelectGM] Could not find a variable named "IsDead" in 'SelectGM'.
+Make sure 'SelectGM' has been compiled for  Set IsDead
+[2018.03.02-19.48.06:526][140]LogBlueprint: Error: [Compiler SelectGM] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.48.06:527][140]LogBlueprint: Error: [Compiler SelectGM] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.03.02-19.48.06:527][140]LogBlueprint: Error: [Compiler SelectGM] In use pin  As My Char  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.03.02-19.48.06:527][140]LogBlueprint: Error: [Compiler SelectGM] In use pin  <Unnamed>  no longer exists on node  Main Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.48.06:527][140]LogBlueprint: Error: [Compiler SelectGM] In use pin  Target  no longer exists on node  Main Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.48.06:527][140]LogBlueprint: Error: [Compiler SelectGM] Could not find a function named "MainMenu" in 'RunnerGameInstance_C'.
+Make sure 'RunnerGameInstance_C' has been compiled for  Main Menu
+[2018.03.02-19.48.06:527][140]LogBlueprint: Error: [Compiler SelectGM] The property associated with  Is Ready?  could not be found
+[2018.03.02-19.48.06:528][140]LogBlueprint: Error: [Compiler SelectGM] The property associated with  Is Dead  could not be found
+[2018.03.02-19.48.06:529][140]LogBlueprint: Warning: [Compiler SelectGM] [1127.56] Compile of SelectGM failed. 8 Fatal Issue(s) 6 Warning(s) [in 6 ms] (/Game/UMG/SelectGM.SelectGM)
+[2018.03.02-19.48.17:793][715]BlueprintLog: New page: Compile SelectGM
+[2018.03.02-19.48.18:428][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/SelectGM" FILE="../../../../../Unreal Projects/CRT/Content/UMG/SelectGM.uasset" SILENT=true
+[2018.03.02-19.48.18:481][739]LogSavePackage: Save=45.59ms
+[2018.03.02-19.48.18:481][739]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/SelectGMC35EFE554E3C1279488F6DAB377EB438.tmp' to '../../../../../Unreal Projects/CRT/Content/UMG/SelectGM.uasset'
+[2018.03.02-19.48.18:483][739]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/UMG/SelectGM.uasset
+[2018.03.02-19.48.21:454][940]LogLinker: Warning: Can't find file '/Game/Assets/Audio/RunnerSM'
+[2018.03.02-19.48.21:454][940]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/RunnerSM' while loading ../../../../../Unreal Projects/CRT/Content/UMG/SettingsMenu.uasset.
+[2018.03.02-19.48.21:454][940]LoadErrors: Error: /Game/UMG/SettingsMenu : Can't find file for asset. /Game/Assets/Audio/RunnerSM
+[2018.03.02-19.48.21:455][940]LogLinker: Warning: Can't find file '/Game/Assets/Audio/RunnerSM2'
+[2018.03.02-19.48.21:455][940]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/RunnerSM2' while loading ../../../../../Unreal Projects/CRT/Content/UMG/SettingsMenu.uasset.
+[2018.03.02-19.48.21:455][940]LoadErrors: Error: /Game/UMG/SettingsMenu : Can't find file for asset. /Game/Assets/Audio/RunnerSM2
+[2018.03.02-19.48.21:455][940]LogLinker: Warning: Can't find file '/Game/Assets/Audio/RunnerSM'
+[2018.03.02-19.48.21:455][940]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/RunnerSM' while loading ../../../../../Unreal Projects/CRT/Content/UMG/SettingsMenu.uasset.
+[2018.03.02-19.48.21:455][940]LogLinker: Warning: Can't find file '/Game/Assets/Audio/RunnerSM2'
+[2018.03.02-19.48.21:455][940]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/RunnerSM2' while loading ../../../../../Unreal Projects/CRT/Content/UMG/SettingsMenu.uasset.
+[2018.03.02-19.48.21:456][940]LogLinker: Warning: Can't find file '/Game/Assets/Audio/RunnerSM'
+[2018.03.02-19.48.21:456][940]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/RunnerSM' while loading NULL.
+[2018.03.02-19.48.21:457][940]LogLinker: Warning: Can't find file '/Game/Assets/Audio/RunnerSM2'
+[2018.03.02-19.48.21:457][940]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/RunnerSM2' while loading NULL.
+[2018.03.02-19.48.21:457][940]LogLinker: Warning: Can't find file '/Game/Assets/Audio/RunnerSM'
+[2018.03.02-19.48.21:457][940]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/RunnerSM' while loading NULL.
+[2018.03.02-19.48.21:457][940]LogLinker: Warning: Can't find file '/Game/Assets/Audio/RunnerSM2'
+[2018.03.02-19.48.21:457][940]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/RunnerSM2' while loading NULL.
+[2018.03.02-19.48.21:460][940]LogLinker: Warning: Can't find file '/Game/Assets/Audio/RunnerSM'
+[2018.03.02-19.48.21:460][940]LoadErrors: Failed to load /Game/Assets/Audio/RunnerSM.RunnerSM Referenced by K2Node_CallFunction_426
+[2018.03.02-19.48.21:460][940]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/RunnerSM' while loading NULL.
+[2018.03.02-19.48.21:460][940]LogLinker: Warning: Can't find file '/Game/Assets/Audio/RunnerSM2'
+[2018.03.02-19.48.21:460][940]LoadErrors: Failed to load /Game/Assets/Audio/RunnerSM2.RunnerSM2 Referenced by K2Node_CallFunction_422
+[2018.03.02-19.48.21:460][940]LogLinker: Warning: Can't find file for asset '/Game/Assets/Audio/RunnerSM2' while loading NULL.
+[2018.03.02-19.48.21:464][940]LogBlueprint: Error: [Compiler SettingsMenu] In use pin  <Unnamed>  no longer exists on node  Main Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.48.21:464][940]LogBlueprint: Error: [Compiler SettingsMenu] In use pin  Target  no longer exists on node  Main Menu . Please refresh node or break links to remove pin.
+[2018.03.02-19.48.21:464][940]LogBlueprint: Error: [Compiler SettingsMenu] Could not find a function named "MainMenu" in 'RunnerGameInstance_C'.
+Make sure 'RunnerGameInstance_C' has been compiled for  Main Menu
+[2018.03.02-19.48.21:465][940]LogBlueprint: Warning: [Compiler SettingsMenu] [1142.50] Compile of SettingsMenu failed. 3 Fatal Issue(s) 0 Warning(s) [in 4 ms] (/Game/UMG/SettingsMenu.SettingsMenu)
+[2018.03.02-19.48.27:278][473]BlueprintLog: New page: Compile SettingsMenu
+[2018.03.02-19.48.27:691][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/SettingsMenu" FILE="../../../../../Unreal Projects/CRT/Content/UMG/SettingsMenu.uasset" SILENT=true
+[2018.03.02-19.48.27:741][495]LogSavePackage: Save=39.80ms
+[2018.03.02-19.48.27:741][495]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/SettingsMenuE6D4902547DE436CF45B62A3202BAF53.tmp' to '../../../../../Unreal Projects/CRT/Content/UMG/SettingsMenu.uasset'
+[2018.03.02-19.48.27:743][495]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/UMG/SettingsMenu.uasset
+[2018.03.02-19.49.16:852][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/BP_Blocker1" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker1.uasset" SILENT=true
+[2018.03.02-19.49.16:865][602]LogSavePackage: Save=11.75ms
+[2018.03.02-19.49.16:865][602]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/BP_Blocker194958A5140C86E1F91FF77934ADA6ED4.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker1.uasset'
+[2018.03.02-19.49.16:867][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker1.uasset
+[2018.03.02-19.49.25:435][186]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.03.02-19.50.04:146][542]BlueprintLog: New page: Compile BP_LaunchPad
+[2018.03.02-19.50.04:755][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/BP_LaunchPad" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_LaunchPad.uasset" SILENT=true
+[2018.03.02-19.50.04:784][551]LogSavePackage: Save=19.75ms
+[2018.03.02-19.50.04:784][551]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/BP_LaunchPadC032A0B44F3AACE0A2A80FBBAC628848.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_LaunchPad.uasset'
+[2018.03.02-19.50.04:786][551]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_LaunchPad.uasset
+[2018.03.02-19.50.25:572][337]BlueprintLog: New page: Compile BP_LaunchPad
+[2018.03.02-19.50.26:376][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/BP_LaunchPad" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_LaunchPad.uasset" SILENT=true
+[2018.03.02-19.50.26:400][365]LogSavePackage: Save=20.72ms
+[2018.03.02-19.50.26:400][365]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/BP_LaunchPad3A30F9FF4077F8856DF91A9E9EA50AB4.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_LaunchPad.uasset'
+[2018.03.02-19.50.26:402][365]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_LaunchPad.uasset
+[2018.03.02-19.50.54:423][927]BlueprintLog: New page: Compile BP_LaunchPad
+[2018.03.02-19.50.55:159][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/BP_LaunchPad" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_LaunchPad.uasset" SILENT=true
+[2018.03.02-19.50.55:191][947]LogSavePackage: Save=28.93ms
+[2018.03.02-19.50.55:191][947]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/BP_LaunchPad7116CF894909613DA80062B523F2ACDC.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_LaunchPad.uasset'
+[2018.03.02-19.50.55:193][947]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_LaunchPad.uasset
+[2018.03.02-19.51.12:620][104]BlueprintLog: New page: Compile BP_Blocker1
+[2018.03.02-19.51.13:253][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/BP_Blocker1" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker1.uasset" SILENT=true
+[2018.03.02-19.51.13:282][116]LogSavePackage: Save=22.14ms
+[2018.03.02-19.51.13:282][116]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/BP_Blocker1AE2ED08E4A08D96F78A6D5B05E17F8B8.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker1.uasset'
+[2018.03.02-19.51.13:284][116]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker1.uasset
+[2018.03.02-19.51.39:695][190]BlueprintLog: New page: Compile BP_Blocker1
+[2018.03.02-19.51.40:432][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/BP_Blocker1" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker1.uasset" SILENT=true
+[2018.03.02-19.51.40:464][210]LogSavePackage: Save=28.79ms
+[2018.03.02-19.51.40:464][210]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/BP_Blocker15785E8AF41F3C7DD560021921A755C18.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker1.uasset'
+[2018.03.02-19.51.40:466][210]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker1.uasset
+[2018.03.02-19.52.08:493][277]BlueprintLog: New page: Compile BP_Blocker2
+[2018.03.02-19.52.09:243][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/BP_Blocker2" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker2.uasset" SILENT=true
+[2018.03.02-19.52.09:274][296]LogSavePackage: Save=26.51ms
+[2018.03.02-19.52.09:274][296]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/BP_Blocker2CECA907E420632E783870EA2E1B41A51.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker2.uasset'
+[2018.03.02-19.52.09:275][296]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker2.uasset
+[2018.03.02-19.52.15:262][741]Cmd: TRANSACTION UNDO
+[2018.03.02-19.52.15:262][741]LogEditorTransaction: Undo Edit Static Mesh
+[2018.03.02-19.52.29:172][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/BP_Blocker2" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker2.uasset" SILENT=true
+[2018.03.02-19.52.29:199][407]LogSavePackage: Save=18.33ms
+[2018.03.02-19.52.29:199][407]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/BP_Blocker21C88B48C4270E7E788A4B2AC6A3B8C53.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker2.uasset'
+[2018.03.02-19.52.29:201][407]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker2.uasset
+[2018.03.02-19.52.29:231][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/BP_Blocker3" FILE="../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker3.uasset" SILENT=true
+[2018.03.02-19.52.29:259][407]LogSavePackage: Save=25.49ms
+[2018.03.02-19.52.29:259][407]LogSavePackage: Moving '../../../../../Unreal Projects/CRT/Saved/BP_Blocker32FDD517F4DC81D6978DCBBBEB4B26051.tmp' to '../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker3.uasset'
+[2018.03.02-19.52.29:260][407]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/CRT/Content/Blueprints/Actor/BP_Blocker3.uasset
+[2018.03.02-19.52.38:964][160]BlueprintLog: New page: Compile BP_Blocker2
+[2018.03.02-19.52.38:970][160]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_44, Actor: /Engine/Transient.World_44:PersistentLevel.REINST_BP_Blocker2_C_0
+[2018.03.02-19.52.38:970][160]LogWorld: --- Actors Currently in /Engine/Transient.World_44:PersistentLevel ---
+[2018.03.02-19.52.38:970][160]LogWorld:   /Engine/Transient.World_44:PersistentLevel.WorldSettings
+[2018.03.02-19.52.38:970][160]LogWorld:   /Engine/Transient.World_44:PersistentLevel.Brush_44
+[2018.03.02-19.52.38:970][160]LogWorld:   /Engine/Transient.World_44:PersistentLevel.DefaultPhysicsVolume_44
+[2018.03.02-19.52.38:970][160]LogWorld:   /Engine/Transient.World_44:PersistentLevel.ParticleEventManager_44
+[2018.03.02-19.52.38:970][160]LogWorld:   NONE
+[2018.03.02-19.52.38:970][160]LogWorld:   NONE
+[2018.03.02-19.52.38:970][160]LogWorld:   /Engine/Transient.World_44:PersistentLevel.BP_Blocker2_C_1
+[2018.03.02-19.52.39:317][160]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.346 s
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: 
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1544]
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: Could not remove actor /Engine/Transient.World_44:PersistentLevel.REINST_BP_Blocker2_C_0 from world (check level is /Engine/Transient.World_44:PersistentLevel)
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: Stack: 
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DD832786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DD5D123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DD5EB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000C92CDF86 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000C8968C15 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000C896ED63 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000C6C5B7B5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000C6C5D11D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000C6C1E7DF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000C54A187F UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000C5441704 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000C6C2633E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000C5441133 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000C5490FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000C5495D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DCEF7BBF UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DCFFD3A2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DCF576D2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DCF58C29 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DCFD8C25 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DD092B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DD0BEA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DCED5EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DCEA8095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DCF428A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DCF2B092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000DCF1D902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000EEAFE54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000EEAF1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000EEB003EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000EEAED5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000119CB85D USER32.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000119CB1EF USER32.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000EEB01516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000BEEE50C8 UE4Editor.exe!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000BEEF5430 UE4Editor.exe!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000BEEF54AA UE4Editor.exe!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000BEF02379 UE4Editor.exe!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x00000000BEF03D57 UE4Editor.exe!UnknownFunction []
+[2018.03.02-19.52.39:317][160]LogOutputDevice: Error: [Callstack] 0x0000000013941FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.02-19.52.39:318][160]LogOutputDevice: Error: [Callstack] 0x0000000013B4EFC1 ntdll.dll!UnknownFunction []
+[2018.03.02-19.52.39:318][160]LogOutputDevice: Error: 
+[2018.03.02-19.52.39:325][160]LogStats:                SubmitErrorReport -  0.000 s
